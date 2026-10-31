@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brochure-copywriting-2/",
+            "url": "https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brochure-copywriting-2/",
+            "title": "Sunstone | Campus Club – Brochure Copywriting",
+            "summary": "View Full Brochure (PDF) Campus Club is a student-focused initiative by Sunstone,&hellip;",
+            "content_html": "<p><img loading=\"lazy\" src=\"https://\tkartikayashivomrania.github.io/portfolio/media/posts/29/Screenshot-2026-11-01-023650f.png\" alt=\"\" width=\"392\" height=\"531\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-xs.png 320w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-sm.png 480w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-md.png 768w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-xl.png 1024w\"></p>\n<p><a href=\"https://\tkartikayashivomrania.github.io/portfolio/media/files/CC - Brochure.pdf\" title=\"Campus Club: Brochure\" target=\"_blank\" rel=\"noopener noreferrer\">View Full Brochure (PDF)</a></p>\n<div class=\"campus-project\">\n<div class=\"campus-details\">\n<p>Campus Club is a student-focused initiative by Sunstone, designed to help college students access academic support, career opportunities, professional development and community experiences.</p>\n<p>I developed the complete written content for the 13-page Campus Club brochure, communicating the initiative's offerings, benefits, programmes and opportunities for students.</p>\n<h3>BROCHURE CONTENT</h3>\n<ul>\n<li>About Us, Campus Club introduction and vision.</li>\n<li>Student benefits and exclusive membership offerings.</li>\n<li>Academic support and educational programmes.</li>\n<li>Community engagement, events and activities.</li>\n<li>Career development, placements and internship opportunities.</li>\n<li>Achievements, placement highlights and student success stories.</li>\n</ul>\n<h3>MY CONTRIBUTION</h3>\n<ul>\n<li>Complete copywriting for the 13-page brochure.</li>\n<li>Content development and structuring across all sections.</li>\n<li>Writing programme descriptions, student benefits and promotional messaging.</li>\n<li>Developing clear and engaging communication to present the Campus Club offering.</li>\n</ul>\n<p class=\"campus-credit\">My responsibility was the complete written content and copywriting. The visual design and brochure layout were handled by the design team.</p>\n</div>\n</div>",
+            "author": {
+                "name": "Kartikaya Shiv Omrania"
+            },
+            "tags": [
+                   "Writing &amp; Copywriting"
+            ],
+            "date_published": "2026-11-01T02:49:52+05:30",
+            "date_modified": "2026-11-01T02:53:40+05:30"
+        },
+        {
             "id": "https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brainbox-campaign-3/",
             "url": "https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brainbox-campaign-3/",
             "title": "Sunstone | Campus Club – BrainBox Campaign",
@@ -147,23 +162,6 @@
             ],
             "date_published": "2026-10-31T23:33:16+05:30",
             "date_modified": "2026-10-31T23:33:16+05:30"
-        },
-        {
-            "id": "https://	kartikayashivomrania.github.io/portfolio/popoholic-anonymous-or-kpop-demon-hunters-2/",
-            "url": "https://	kartikayashivomrania.github.io/portfolio/popoholic-anonymous-or-kpop-demon-hunters-2/",
-            "title": "Popoholic Anonymous | KPop Demon Hunters 2",
-            "summary": "@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;",
-            "content_html": "<div>\n<style>\n@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');\n\n.google-project {\n  display: grid;\n  grid-template-columns: 340px minmax(0, 1fr);\n  gap: 32px;\n  max-width: 1000px;\n  margin: 25px auto;\n  align-items: start;\n}\n\n.google-project-video {\n  width: 100%;\n  max-width: 340px;\n}\n\n.google-project-video iframe {\n  display: block;\n  width: 100%;\n  height: 605px;\n  border: 0;\n}\n\n.google-project-details {\n  padding-top: 16px;\n}\n\n.google-project-details h2 {\n  font-family: 'Google Sans Flex', sans-serif;\n  color: #f5f1e9;\n  font-size: 27px;\n  font-weight: 700;\n  letter-spacing: -0.8px;\n  line-height: 1.22;\n  margin: 0 0 18px;\n}\n\n.google-project-details p {\n  font-family: 'DM Sans', sans-serif;\n  color: #d0cec9;\n  font-size: 15px;\n  line-height: 1.6;\n  margin: 0 0 22px;\n}\n\n.google-project-details h3 {\n  font-family: 'DM Sans', sans-serif;\n  color: #c8ad82;\n  font-size: 12px;\n  font-weight: 700;\n  letter-spacing: 1.3px;\n  margin: 0 0 12px;\n}\n\n.google-project-details ul {\n  padding-left: 18px;\n  margin: 0;\n}\n\n.google-project-details li {\n  font-family: 'DM Sans', sans-serif;\n  color: #e0ddd7;\n  font-size: 14px;\n  line-height: 1.5;\n  margin-bottom: 8px;\n}\n\n@media (max-width: 700px) {\n  .google-project {\n    grid-template-columns: 1fr;\n    gap: 20px;\n  }\n\n  .google-project-video {\n    max-width: 340px;\n  }\n\n  .google-project-video iframe {\n    height: 605px;\n  }\n\n  .google-project-details {\n    padding-top: 0;\n  }\n}\n</style>\n\n<div class=\"google-project\">\n  <div class=\"google-project-video\">\n    <div class=\"post__iframe\"><iframe loading=\"lazy\"       src=\"https://drive.google.com/file/d/1Q_eHMBqtOA9Y64jJ9FSN_KCujKoeAC9h/preview\"\n      allow=\"autoplay; fullscreen\"\n      allowfullscreen>\n    </iframe></div>\n  </div>\n\n  <div class=\"google-project-details\">\n    <h2>Popoholic Anonymous | KPop Demon Hunters 2</h2>\n\n    <p>\n      A pop-culture news video covering the confirmation of KPop Demon Hunters 2.\n    </p>\n\n    <h3>MY CONTRIBUTION</h3>\n    <ul>\n      <li>Research and video clip sourcing.</li>\n      <li>Scriptwriting and content development.</li>\n      <li>AI voice-over creation.</li>\n      <li>Video editing and sequencing.</li>\n      <li>AI-generated background music composition.</li>\n    </ul>\n  </div>\n</div>\n</div>",
-            "author": {
-                "name": "Kartikaya Shiv Omrania"
-            },
-            "tags": [
-                   "Writing &amp; Copywriting",
-                   "Video Editing",
-                   "Audio &amp; Music Production"
-            ],
-            "date_published": "2026-10-31T23:07:24+05:30",
-            "date_modified": "2026-10-31T23:13:03+05:30"
         }
     ]
 }
