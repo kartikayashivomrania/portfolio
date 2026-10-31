@@ -3,12 +3,614 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://	kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-01T03:18:04+05:30</updated>
+    <updated>2026-11-01T04:39:01+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
     <id>https://	kartikayashivomrania.github.io/portfolio</id>
 
+    <entry>
+        <title>Aatm Nirbhar | Mardon Wale Kaam – Content Strategy, Campaign Planning &amp; Production</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam-content-strategy-campaign-planning-and-production/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam-content-strategy-campaign-planning-and-production/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T04:29:04+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .mwk-project { width: 100%; max-width: 1100px; margin: 25px auto; color: #d0cec9; font-family:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+.mwk-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+    color: #d0cec9;
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.7;
+}
+.mwk-episode {
+    width: 100%;
+    margin: 30px auto 42px;
+}
+.mwk-episode-details {
+    max-width: 900px;
+    padding-bottom: 18px;
+}
+.mwk-episode-details h2 {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: #f5f1e9;
+    margin: 0 0 10px;
+}
+.mwk-episode-details p,
+.mwk-project p {
+    font-size: 15px;
+    margin: 0 0 18px;
+}
+.mwk-episode-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+}
+.mwk-episode-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+.mwk-divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(200,173,130,0.2);
+    margin: 38px 0;
+}
+.mwk-content {
+    max-width: 900px;
+    margin: 45px auto 0;
+}
+.mwk-content h3 {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #c8ad82;
+    margin: 30px 0 14px;
+}
+.mwk-content ul {
+    padding-left: 20px;
+    margin: 0 0 24px;
+}
+.mwk-content li {
+    font-size: 14px;
+    color: #e0ddd7;
+    margin-bottom: 9px;
+}
+.mwk-role {
+    margin-top: 30px !important;
+    padding-top: 20px;
+    border-top: 1px solid rgba(200,173,130,0.25);
+    color: #aaa69e;
+    font-size: 14px !important;
+}
+@media (max-width: 600px) {
+    .mwk-episode-details h2 {
+        font-size: 22px;
+    }
+}
+</style>
+
+<div class="mwk-project">
+
+    <!-- EPISODE 1 -->
+    <div class="mwk-episode">
+
+        <div class="mwk-episode-details">
+            <h2>Episode 1 – Swiggy Food Delivery</h2>
+            <p>
+                Exploring the process of becoming a Swiggy food delivery partner, taking viewers through the practical steps involved and the experience of entering the delivery workforce.
+            </p>
+        </div>
+
+        <div class="mwk-episode-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1JptimovDE-pAC2EaREeGd9hplt9aUlQs/preview"
+                width="640"
+                height="480"
+                allow="autoplay"
+                allowfullscreen>
+            </iframe></div>
+        </div>
+
+    </div>
+
+    <div class="mwk-divider"></div>
+
+    <!-- EPISODE 2 -->
+    <div class="mwk-episode">
+
+        <div class="mwk-episode-details">
+            <h2>Episode 2 – Swiggy Instamart Delivery</h2>
+            <p>
+                A practical look at grocery delivery through Instamart, exploring dark stores, delivery shifts and the experiences of women working as Instamart delivery partners.
+            </p>
+        </div>
+
+        <div class="mwk-episode-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1Fwe3lEUkYQcMAChJlYFmhK_LKHIQtUWs/preview"
+                width="640"
+                height="480"
+                allow="autoplay"
+                allowfullscreen>
+            </iframe></div>
+        </div>
+
+    </div>
+
+    <div class="mwk-divider"></div>
+
+    <!-- EPISODE 3 -->
+    <div class="mwk-episode">
+
+        <div class="mwk-episode-details">
+            <h2>Episode 3 – Rapido Captain</h2>
+            <p>
+                Exploring the Rapido Captain registration process and the experiences of women working in bike and scooter-based passenger and delivery services.
+            </p>
+        </div>
+
+        <div class="mwk-episode-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1h2KL5ONBu-BAmEpwGDE0fdykNMJy9dJD/preview"
+                width="640"
+                height="480"
+                allow="autoplay"
+                allowfullscreen>
+            </iframe></div>
+        </div>
+
+    </div>
+
+    <div class="mwk-divider"></div>
+
+    <!-- EPISODE 4 -->
+    <div class="mwk-episode">
+
+        <div class="mwk-episode-details">
+            <h2>Episode 4 – DeHaat Village Representatives</h2>
+            <p>
+                Set in Tappal, Aligarh, this episode explores the work of women Village Representatives associated with DeHaat and their role in connecting farmers with agricultural services.
+            </p>
+        </div>
+
+        <div class="mwk-episode-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1WbxJWg5AZvgx7SfcEoqWpZ_f8ZlsrqmW/preview"
+                width="640"
+                height="480"
+                allow="autoplay"
+                allowfullscreen>
+            </iframe></div>
+        </div>
+
+    </div>
+
+    <!-- SEPARATOR AFTER EPISODE 4 -->
+    <div class="mwk-divider"></div>
+
+    <!-- PROJECT OVERVIEW AND CONTRIBUTION -->
+    <div class="mwk-content">
+
+        <p>
+            Mardon Wale Kaam is an Aatm Nirbhar content series exploring professions traditionally perceived as men's work. Through real-world experiences and conversations with women already working in these roles, the series challenges assumptions about women's participation in different professions.
+        </p>
+
+        <p>
+            The project extended beyond individual YouTube episodes into a broader content and awareness initiative, with a distribution approach designed to take these stories beyond YouTube and reach relevant audiences.
+        </p>
+
+        <h3>CONTENT STRATEGY & CAMPAIGN PLANNING</h3>
+        <ul>
+            <li>Developing the content approach around experience-led storytelling, practical job demonstrations and real women's experiences.</li>
+            <li>Structuring the content ecosystem around reach, engagement and lead generation.</li>
+            <li>Planning pre-launch, launch and post-launch communication.</li>
+            <li>Developing content calendars for teasers, curiosity-driven posts, carousels, short-form clips and episode releases.</li>
+            <li>Planning platform-specific content distribution across YouTube, Instagram, Facebook, WhatsApp and LinkedIn.</li>
+            <li>Developing a content repurposing approach to extract short-form stories, insights and human-interest clips from full episodes.</li>
+            <li>Planning creator and community amplification to extend the series into relevant audiences and women's networks.</li>
+            <li>Mapping individual episode clips to relevant Aatm Nirbhar, Scooter Rani, Scooty Didi and founder-led social channels.</li>
+        </ul>
+
+        <h3>RESEARCH, EPISODE DEVELOPMENT & SCRIPTWRITING</h3>
+        <ul>
+            <li>Researching job roles, processes and practical information for episode narratives.</li>
+            <li>Writing Hindi scripts, hooks, presenter narration and episode introductions.</li>
+            <li>Structuring job demonstrations and explaining onboarding, registration and work processes.</li>
+            <li>Developing interview questions to explore the experiences, challenges, earnings and journeys of the women featured.</li>
+            <li>Building episode flow, transitions and storytelling to make each profession accessible to viewers.</li>
+        </ul>
+
+        <h3>CONTENT DISTRIBUTION & AMPLIFICATION</h3>
+        <ul>
+            <li>Planning short-form content from the full-length episodes for discovery and audience engagement.</li>
+            <li>Identifying stories around earnings, safety, work experiences and personal journeys for individual clips.</li>
+            <li>Planning community distribution through relevant women's networks and WhatsApp.</li>
+            <li>Exploring creator-led amplification, reactions and conversations around women entering traditionally male-dominated professions.</li>
+            <li>Connecting content distribution with awareness of livelihood and employment opportunities.</li>
+        </ul>
+
+        <p class="mwk-role">
+            My contribution covered content development, research, scripting, campaign and distribution planning, and the structuring of the series into a wider content ecosystem.
+        </p>
+
+    </div>
+
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SEO Blogs &amp; Articles | MyMobileIndia &amp; VIPFortunes</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/seo-blogs-and-articles-or-mymobileindia-and-vipfortunes/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/seo-blogs-and-articles-or-mymobileindia-and-vipfortunes/</id>
+            <category term="Writing &amp; Copywriting"/>
+
+        <updated>2026-11-01T04:14:47+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .editorial-project { width: 100%; max-width: 1000px; margin: 25px auto; color: #d0cec9; font-family:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.editorial-project {
+    width: 100%;
+    max-width: 1000px;
+    margin: 25px auto;
+    color: #d0cec9;
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.7;
+}
+.editorial-details {
+    max-width: 900px;
+    margin: 0 auto;
+}
+.editorial-details p {
+    font-size: 15px;
+    margin: 0 0 18px;
+}
+.editorial-details h3 {
+    font-family: 'Google Sans Flex', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #c8ad82;
+    margin: 32px 0 14px;
+}
+.editorial-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.editorial-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(200,173,130,0.15);
+    font-size: 14px;
+}
+.editorial-list a {
+    color: #e0ddd7;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+.editorial-list a:hover {
+    color: #c8ad82;
+}
+.editorial-note {
+    margin-top: 28px !important;
+    padding-top: 18px;
+    border-top: 1px solid rgba(200,173,130,0.25);
+    color: #aaa69e;
+    font-size: 14px !important;
+}
+@media (max-width: 600px) {
+    .editorial-details {
+        padding: 0 4px;
+    }
+}
+</style>
+
+<div class="editorial-project">
+    <div class="editorial-details">
+
+        <p>
+            A selection of published SEO-oriented editorial articles written for MyMobileIndia and VIPFortunes, covering consumer technology, smartphones, gadgets, digital platforms, gaming, streaming, entertainment and pop culture.
+        </p>
+
+        <p>
+            My work involved researching topics and developing reader-focused articles around technology updates, product developments, practical guides, entertainment stories and trending subjects. The focus was on making information accessible, structuring content for online readership and creating articles suited to their respective audiences.
+        </p>
+
+        <h3>SMARTPHONES, GADGETS & CONSUMER TECHNOLOGY</h3>
+
+        <ul class="editorial-list">
+            <li><a href="https://www.mymobileindia.com/top-5-mistakes-that-are-causing-your-smartphone-to-underperform/" target="_blank" rel="noopener noreferrer">Top 5 Mistakes That Are Causing Your Smartphone to Underperform</a></li>
+
+            <li><a href="https://www.mymobileindia.com/oneplus-11-photos-leaked-showing-a-ceramic-body-and-more/" target="_blank" rel="noopener noreferrer">OnePlus 11 Photos Leaked, Showing a Ceramic Body and More</a></li>
+
+            <li><a href="https://www.mymobileindia.com/the-best-time-to-buy-a-oneplus-10-pro-is-here-huge-discounts-and-more/" target="_blank" rel="noopener noreferrer">The Best Time to Buy a OnePlus 10 Pro Is Here: Huge Discounts and More</a></li>
+
+            <li><a href="https://www.mymobileindia.com/samsung-will-use-an-overclocked-gpu-with-the-snapdragon-8-gen-2-processor/" target="_blank" rel="noopener noreferrer">Samsung Will Use an Overclocked GPU with the Snapdragon 8 Gen 2 Processor</a></li>
+
+            <li><a href="https://www.mymobileindia.com/good-news-oneplus-nord-ce-2-lite-oxygenos-13-beta-registrations-have-begun/" target="_blank" rel="noopener noreferrer">OnePlus Nord CE 2 Lite OxygenOS 13 Beta Registrations Have Begun</a></li>
+
+            <li><a href="https://www.mymobileindia.com/which-phone-has-a-better-camera-iphone-14-plus-or-pixel-7/" target="_blank" rel="noopener noreferrer">Which Phone Has a Better Camera: iPhone 14 Plus or Pixel 7?</a></li>
+
+            <li><a href="https://www.mymobileindia.com/why-apple-tv-4k-is-still-a-great-choice-in-2022/" target="_blank" rel="noopener noreferrer">Why Apple TV 4K Is Still a Great Choice in 2022</a></li>
+
+            <li><a href="https://www.mymobileindia.com/top-7-apple-watch-apps-you-should-download/" target="_blank" rel="noopener noreferrer">Top 7 Apple Watch Apps You Should Download</a></li>
+
+            <li><a href="https://www.mymobileindia.com/infinix-promises-shudh-5g-experience-with-the-new-hot-20-smartphones/" target="_blank" rel="noopener noreferrer">Infinix Promises Shudh 5G Experience with the New HOT 20 Smartphones</a></li>
+
+            <li><a href="https://www.mymobileindia.com/looking-for-best-5g-smartphones-under-rs-20000-your-search-ends-here/" target="_blank" rel="noopener noreferrer">Best 5G Smartphones Under Rs 20,000</a></li>
+
+            <li><a href="https://www.mymobileindia.com/iphone-14-pro-max-is-the-fastest-according-to-ookla/" target="_blank" rel="noopener noreferrer">iPhone 14 Pro Max Is the Fastest, According to Ookla</a></li>
+
+            <li><a href="https://www.mymobileindia.com/snapdragon-782g-this-is-the-futures-best-selling-qualcomm-chip" target="_blank" rel="noopener noreferrer">Snapdragon 782G: This Is the Future's Best-Selling Qualcomm Chip</a></li>
+
+            <li><a href="https://www.mymobileindia.com/nothing-ear-stick-the-best-earplugs-under-%e2%82%b910000/" target="_blank" rel="noopener noreferrer">Nothing Ear (Stick): The Best Earplugs Under ₹10,000?</a></li>
+
+            <li><a href="https://www.mymobileindia.com/a-buttonless-iphone-is-on-the-way/" target="_blank" rel="noopener noreferrer">A Buttonless iPhone Is on the Way</a></li>
+
+            <li><a href="https://www.mymobileindia.com/amazon-fab-phone-fest-begins-on-26th-nov-check-top-offers-here/" target="_blank" rel="noopener noreferrer">Amazon Fab Phone Fest Begins on 26th November: Top Offers</a></li>
+        </ul>
+
+        <h3>DIGITAL GUIDES & HOW-TO ARTICLES</h3>
+
+        <ul class="editorial-list">
+            <li><a href="https://www.mymobileindia.com/your-complete-guide-to-ott-in-2022-is-here-with-top-underrated-platforms/" target="_blank" rel="noopener noreferrer">Your Complete Guide to OTT in 2022, with Top Underrated Platforms</a></li>
+
+            <li><a href="https://www.mymobileindia.com/what-is-tamil-play-and-should-you-download-movies-from-it-in-2022/" target="_blank" rel="noopener noreferrer">What Is Tamil Play and Should You Download Movies from It?</a></li>
+
+            <li><a href="https://www.mymobileindia.com/a-quick-guide-to-whatsapp-web/" target="_blank" rel="noopener noreferrer">A Quick Guide to WhatsApp Web</a></li>
+
+            <li><a href="https://www.mymobileindia.com/10-features-for-android-users-that-will-keep-you-safe-from-hackers-and-viruses/" target="_blank" rel="noopener noreferrer">10 Features for Android Users That Help Keep You Safe from Hackers and Viruses</a></li>
+
+            <li><a href="https://www.mymobileindia.com/avatar-the-way-of-water-out-on-december-16th-heres-how-to-get-the-tickets/" target="_blank" rel="noopener noreferrer">Avatar: The Way of Water – How to Get the Tickets</a></li>
+
+            <li><a href="https://www.mymobileindia.com/fifa-world-cup-2022-broadcast-in-india-learn-how-to-watch-for-free/" target="_blank" rel="noopener noreferrer">FIFA World Cup 2022 Broadcast in India: How to Watch for Free</a></li>
+        </ul>
+
+        <h3>ENTERTAINMENT, STREAMING & GAMING</h3>
+
+        <ul class="editorial-list">
+            <li><a href="https://www.mymobileindia.com/cod-warzone-is-coming-to-ios-pre-registrations-are-open-now/" target="_blank" rel="noopener noreferrer">COD: Warzone Is Coming to iOS – Pre-Registrations Are Open</a></li>
+
+            <li><a href="https://www.mymobileindia.com/deadpool-3-is-working-title-will-make-wolverine-fans-very-happy/" target="_blank" rel="noopener noreferrer">Deadpool 3's Working Title Will Make Wolverine Fans Very Happy</a></li>
+
+            <li><a href="https://www.mymobileindia.com/top-7-spy-series-to-binge-watch-on-major-streaming-services/" target="_blank" rel="noopener noreferrer">Top 7 Spy Series to Binge-Watch on Major Streaming Services</a></li>
+
+            <li><a href="https://www.mymobileindia.com/deadpool-has-a-secret-christmas-theme-script-but-we-might-not-see-it/" target="_blank" rel="noopener noreferrer">Deadpool Has a Secret Christmas-Themed Script, but We Might Not See It</a></li>
+
+            <li><a href="https://www.mymobileindia.com/the-real-meaning-behind-black-panther-wakanda-forevers-end/" target="_blank" rel="noopener noreferrer">The Real Meaning Behind Black Panther: Wakanda Forever's End</a></li>
+
+            <li><a href="https://www.mymobileindia.com/sony-is-bringing-the-spider-man-universe-to-the-small-screen/" target="_blank" rel="noopener noreferrer">Sony Is Bringing the Spider-Man Universe to the Small Screen</a></li>
+
+            <li><a href="https://www.mymobileindia.com/1899-the-most-unsettling-netflix-releases-of-the-year-will-make-you-wonder/" target="_blank" rel="noopener noreferrer">1899: The Most Unsettling Netflix Release of the Year</a></li>
+
+            <li><a href="https://www.mymobileindia.com/your-favourite-marvel-superhero-might-join-the-avengers/" target="_blank" rel="noopener noreferrer">Your Favourite Marvel Superhero Might Join the Avengers</a></li>
+
+            <li><a href="https://www.mymobileindia.com/marvels-spider-man-miles-morales-is-a-delight-for-pc-players/" target="_blank" rel="noopener noreferrer">Marvel's Spider-Man: Miles Morales Is a Delight for PC Players</a></li>
+
+            <li><a href="https://www.mymobileindia.com/the-guardians-of-the-galaxy-holiday-special-crucial-plot-details-revealed/" target="_blank" rel="noopener noreferrer">The Guardians of the Galaxy Holiday Special: Crucial Plot Details Revealed</a></li>
+
+            <li><a href="https://www.mymobileindia.com/netflixs-new-series-wednesday-is-a-step-in-the-right-direction/" target="_blank" rel="noopener noreferrer">Netflix's New Series Wednesday Is a Step in the Right Direction</a></li>
+        </ul>
+
+        <h3>CELEBRITY & POP CULTURE – VIPFORTUNES</h3>
+
+        <ul class="editorial-list">
+            <li><a href="https://vipfortunes.com/news/is-eminem-actually-gay" target="_blank" rel="noopener noreferrer">Is Eminem Actually Gay?</a></li>
+        </ul>
+
+        <p class="editorial-note">
+            My contribution to these projects was editorial research, SEO-oriented content writing and article development for online publication. The articles are linked to their original publisher pages. The VIPFortunes article was published under a site-assigned author name.
+        </p>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | Newsletters – Research &amp; Copywriting</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-newsletters-research-and-copywriting/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-newsletters-research-and-copywriting/</id>
+            <category term="Writing &amp; Copywriting"/>
+
+        <updated>2026-11-01T04:13:34+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    As part of Baazi Games' newsletter communication, I worked on two editions&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-1.jpg" data-size="600x2516"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-1-thumbnail.jpg" alt="" width="600" height="2516"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-2.png" data-size="600x2258"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-2-thumbnail.png" alt="" width="600" height="2258"></a></figure>
+</div></div>
+<div class="baazi-project">
+<div class="baazi-details">
+<p>As part of Baazi Games' newsletter communication, I worked on two editions covering company updates, platform developments, brand initiatives and people within the organisation.</p>
+<p>The newsletters brought together updates from different teams and brands, employee stories, product developments and community-focused content. The aim was to turn information from across the organisation into engaging, readable newsletter content.</p>
+<h3>CONTENT HIGHLIGHTS</h3>
+<ul>
+<li>BalleBaazi's fourth anniversary and reflections from team members.</li>
+<li>Company and platform updates, including BalleBaazi 3.0.</li>
+<li>CardBaazi and PokerBaazi updates and initiatives.</li>
+<li>Team stories, employee introductions and personal interests.</li>
+<li>Internal updates and engaging features for the newsletter audience.</li>
+</ul>
+<h3>MY CONTRIBUTION</h3>
+<ul>
+<li>Researching topics and gathering information for newsletter stories.</li>
+<li>Speaking with relevant people to collect details, perspectives and inputs.</li>
+<li>Developing and writing the newsletter content from A to Z.</li>
+<li>Structuring stories, headlines, introductions and individual content sections.</li>
+<li>Editing and refining copy for clarity, flow and readability.</li>
+<li>Working with the designer to discuss the content and its visual presentation.</li>
+</ul>
+<p class="baazi-credit">My responsibility covered research, information gathering and complete written content. Visual design and layout were handled by the designer.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | Promotional Emails – Copywriting</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-promotional-emails-copywriting/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-promotional-emails-copywriting/</id>
+            <category term="Writing &amp; Copywriting"/>
+
+        <updated>2026-11-01T04:00:25+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    As part of Baazi Games' email communication, I worked on the copywriting&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-1.jpg" data-size="590x2697"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-1-thumbnail.jpg" alt="" width="590" height="2697"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-2.jpg" data-size="620x1926"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-2-thumbnail.jpg" alt="" width="620" height="1926"></a></figure>
+</div></div>
+<div class="baazi-project">
+<div class="baazi-details">
+<p>As part of Baazi Games' email communication, I worked on the copywriting for two promotional emails designed to share company updates, platform developments, brand communication and community-focused stories with the audience.</p>
+<p>The emails covered subjects including BalleBaazi's anniversary, platform updates, developments across Baazi Games' brands, and stories highlighting people and activities within the organisation.</p>
+<h3>MY CONTRIBUTION</h3>
+<ul>
+<li>End-to-end copywriting for both promotional emails.</li>
+<li>Writing and structuring all email content, headlines and section descriptions.</li>
+<li>Organising information into a clear and engaging email flow.</li>
+<li>Refining messaging for readability, tone and audience engagement.</li>
+<li>Discussing the creative execution with the designer to communicate the intended content and presentation.</li>
+</ul>
+<p class="baazi-credit">My contribution was focused on writing and content development. The visual design and artwork were handled by the designer.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | Cash Bomb – Landing Page Copywriting</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-cash-bomb-landing-page-copywriting/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-cash-bomb-landing-page-copywriting/</id>
+            <category term="Writing &amp; Copywriting"/>
+
+        <updated>2026-11-01T03:58:32+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Cash Bomb was a Baazi Games feature built around match-wise investment leaderboards,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/1.-Landing-Page-BB-CB.png" data-size="627x748"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/1.-Landing-Page-BB-CB-thumbnail.png" alt="" width="627" height="748"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/3.-Landing-Page-BB-CB.png" data-size="701x876"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/3.-Landing-Page-BB-CB-thumbnail.png" alt="" width="701" height="876"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/2.-Landing-Page-BB-CB.png" data-size="710x637"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/2.-Landing-Page-BB-CB-thumbnail.png" alt="" width="710" height="637"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/4.-Landing-Page-BB-CB.png" data-size="761x876"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/4.-Landing-Page-BB-CB-thumbnail.png" alt="" width="761" height="876"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/5.-Landing-Page-BB-CB.png" data-size="756x827"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/5.-Landing-Page-BB-CB-thumbnail.png" alt="" width="756" height="827"></a></figure>
+</div></div>
+<div class="baazi-project">
+<div class="baazi-details">
+<p>Cash Bomb was a Baazi Games feature built around match-wise investment leaderboards, cashback and rewards. The landing page explained how the feature worked and helped users understand its participation structure.</p>
+<p>I was responsible for writing the landing-page content, translating the supplied product information and mechanics into clear, structured communication for users.</p>
+<h3>PAGE CONTENT</h3>
+<ul>
+<li>Cash Bomb introduction and feature benefits.</li>
+<li>Leaderboard structure, prize pools and winning positions.</li>
+<li>Cash Bomb levels and their relationship with league entry amounts.</li>
+<li>Eligibility requirements and participation information.</li>
+<li>Frequently asked questions covering rankings, winnings, cashback and reward distribution.</li>
+<li>Terms and conditions explaining the feature's rules and limitations.</li>
+</ul>
+<h3>MY CONTRIBUTION</h3>
+<ul>
+<li>End-to-end landing-page copywriting.</li>
+<li>Writing and structuring product explanations.</li>
+<li>Developing clear FAQ responses and terms-and-conditions content.</li>
+<li>Organising information into a logical page flow for easy understanding.</li>
+</ul>
+<p class="baazi-credit">My responsibility was the writing and content development. I was not involved in the original campaign concept or ideation, and the visual design was handled separately.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sunstone | Campus Club – Malamaal Quiz Campaign</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-malamaal-quiz-campaign/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-malamaal-quiz-campaign/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T03:40:39+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Malamaal Quiz was a Campus Club promotional campaign by Sunstone, created to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://	kartikayashivomrania.github.io/portfolio/media/posts/34/CC-M-Quiz.png" alt="" width="1200" height="628" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-xs.png 320w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-sm.png 480w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-md.png 768w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-xl.png 1024w"></figure>
+<div class="campus-project">
+<div class="campus-details">
+<p>Malamaal Quiz was a Campus Club promotional campaign by Sunstone, created to engage its student audience through a quiz-based initiative.</p>
+<p>I handled the campaign from concept development and communication through creative execution, coordinating the people involved in bringing the promotional mailer to life.</p>
+<h3>MY CONTRIBUTION</h3>
+<ul>
+<li>Campaign concept development and communication planning.</li>
+<li>End-to-end copywriting and promotional messaging.</li>
+<li>Developing the creative brief and guiding the visual direction.</li>
+<li>Briefing and guiding designers through creative execution.</li>
+<li>Handling team coordination and overseeing the campaign deliverable.</li>
+<li>Reviewing the final creative to ensure alignment with the campaign communication.</li>
+</ul>
+<p class="campus-credit">I was responsible for the campaign's concept, writing, creative direction and team coordination. The visual artwork was executed by the design team under my guidance.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sunstone | Campus Club – Brain Wars Promotional Copywriting</title>
         <author>
@@ -176,691 +778,6 @@
 <li>Developing clear messaging for students, parents and educational institutions.</li>
 </ul>
 <p class="rise-credit">My contribution covered the written content and copywriting for the brochure and school outreach communication.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | Campus Club – Brochure Copywriting</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brochure-copywriting-2/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brochure-copywriting-2/</id>
-            <category term="Writing &amp; Copywriting"/>
-
-        <updated>2026-11-01T02:49:52+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    View Full Brochure (PDF) Campus Club is a student-focused initiative by Sunstone,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://	kartikayashivomrania.github.io/portfolio/media/posts/29/Screenshot-2026-11-01-023650f.png" alt="" width="392" height="531" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-xs.png 320w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-sm.png 480w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-md.png 768w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/29/responsive/Screenshot-2026-11-01-023650f-xl.png 1024w"></figure>
-<p class="align-center"><a href="https://	kartikayashivomrania.github.io/portfolio/media/files/CC - Brochure.pdf" title="Campus Club: Brochure" target="_blank" rel="noopener noreferrer">View Full Brochure (PDF)</a></p>
-<div class="campus-project">
-<div class="campus-details">
-<p>Campus Club is a student-focused initiative by Sunstone, designed to help college students access academic support, career opportunities, professional development and community experiences.</p>
-<p>I developed the complete written content for the 13-page Campus Club brochure, communicating the initiative's offerings, benefits, programmes and opportunities for students.</p>
-<h3>BROCHURE CONTENT</h3>
-<ul>
-<li>About Us, Campus Club introduction and vision.</li>
-<li>Student benefits and exclusive membership offerings.</li>
-<li>Academic support and educational programmes.</li>
-<li>Community engagement, events and activities.</li>
-<li>Career development, placements and internship opportunities.</li>
-<li>Achievements, placement highlights and student success stories.</li>
-</ul>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>Complete copywriting for the 13-page brochure.</li>
-<li>Content development and structuring across all sections.</li>
-<li>Writing programme descriptions, student benefits and promotional messaging.</li>
-<li>Developing clear and engaging communication to present the Campus Club offering.</li>
-</ul>
-<p class="campus-credit">My responsibility was the complete written content and copywriting. The visual design and brochure layout were handled by the design team.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | Campus Club – BrainBox Campaign</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brainbox-campaign-3/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brainbox-campaign-3/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T02:15:12+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Sunstone | Campus Club – BrainBox Campaign BrainBox was a Campus Club&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-BB-Mail-2.png" data-size="1017x521"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-BB-Mail-2-thumbnail.png" alt="" width="768" height="393"> </a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-1.png" data-size="1901x662"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-1-thumbnail.png" alt="" width="768" height="267"> </a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-2.png" data-size="1898x527"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-2-thumbnail.png" alt="" width="768" height="213"> </a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-3.png" data-size="1896x707"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-3-thumbnail.png" alt="" width="768" height="286"> </a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-4.png" data-size="1896x780"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-4-thumbnail.png" alt="" width="768" height="316"> </a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-5.png" data-size="1048x813"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-Website-Content-5-thumbnail.png" alt="" width="768" height="596"> </a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-BB-Mail-1.png" data-size="1282x470"> <img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/28/gallery/SunStone-BB-Mail-1-thumbnail.png" alt="" width="768" height="282"> </a></figure>
-</div></div>
-<div class="campaign-project">
-<div class="campaign-details">
-<h2>Sunstone | Campus Club – BrainBox Campaign</h2>
-<p>BrainBox was a Campus Club campaign developed for college students, combining interactive quizzes, daily themes, competitions and prizes. I came up with the BrainBox campaign name and led its content development and execution, working with a team of designers to bring the campaign creatives to life.</p>
-<h3>CAMPAIGN WEBSITE &amp; CONTENT</h3>
-<p>Developed the written content for the BrainBox website, including campaign messaging, introductory content, participation instructions, FAQs and terms and conditions.</p>
-<h3>CAMPAIGN COMMUNICATION</h3>
-<p>Created copy for promotional mailers and campaign communications, including English and Hindi/Hinglish messaging to explain the quiz, participation process, prizes and engagement opportunities.</p>
-<h3>MY ROLE &amp; CONTRIBUTION</h3>
-<ul>
-<li>Conceptualisation and naming of the BrainBox campaign.</li>
-<li>Website copywriting and content development.</li>
-<li>Writing promotional copy, mailers, FAQs and campaign communication.</li>
-<li>Developing English and Hindi/Hinglish messaging.</li>
-<li>Leading and coordinating the design team responsible for the campaign's visual creatives.</li>
-<li>Managing campaign execution and coordinating its different creative requirements.</li>
-</ul>
-<p class="campaign-credit">My contribution covered campaign development, copywriting and creative team coordination. Visual artwork and graphic design were executed by the design team.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Mardon Wale Kaam</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T00:41:24+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .aatm-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
-
-.aatm-project {
-  width: 100%;
-  max-width: 1100px;
-  margin: 25px auto;
-}
-
-.aatm-project-details {
-  max-width: 850px;
-}
-
-.aatm-project-details h2 {
-  font-family: 'Google Sans Flex', sans-serif;
-  color: #f5f1e9;
-  font-size: 30px;
-  font-weight: 700;
-  letter-spacing: -0.8px;
-  line-height: 1.22;
-  margin: 0 0 14px;
-}
-
-.aatm-project-details p {
-  font-family: 'DM Sans', sans-serif;
-  color: #d0cec9;
-  font-size: 15px;
-  line-height: 1.6;
-  margin: 0 0 22px;
-}
-
-.aatm-project-details h3 {
-  font-family: 'DM Sans', sans-serif;
-  color: #c8ad82;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 1.3px;
-  margin: 28px 0 12px;
-}
-
-.aatm-project-video {
-  width: 100%;
-  container-type: inline-size;
-  background: #000;
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-.aatm-project-video iframe {
-  display: block;
-  width: 100%;
-  height: calc(75cqw + 24px);
-  border: 0;
-  border-radius: 6px;
-}
-
-.aatm-episode {
-  margin-top: 28px;
-}
-
-.aatm-episode h3 {
-  font-family: 'DM Sans', sans-serif;
-  color: #c8ad82;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 1.3px;
-  margin: 0 0 12px;
-}
-
-.aatm-role {
-  padding-top: 8px;
-}
-
-.aatm-role ul {
-  padding-left: 18px;
-  margin: 0;
-}
-
-.aatm-role li {
-  font-family: 'DM Sans', sans-serif;
-  color: #e0ddd7;
-  font-size: 14px;
-  line-height: 1.6;
-  margin-bottom: 9px;
-}
-
-@media (max-width: 700px) {
-  .aatm-project-details h2 {
-    font-size: 26px;
-  }
-
-  .aatm-role {
-    padding-top: 4px;
-  }
-}
-</style>
-
-<div class="aatm-project">
-
-  <div class="aatm-project-details">
-    <h2>Aatm Nirbhar | Mardon Wale Kaam</h2>
-
-    <p>
-      A four-episode content series developed through Aatm Nirbhar. My involvement extended across research, content development, participant interviews, pre-production, production coordination and post-production supervision.
-    </p>
-  </div>
-
-  <div class="aatm-episode">
-    <h3>EPISODE 1</h3>
-    <div class="aatm-project-video">
-      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1JptimovDE-pAC2EaREeGd9hplt9aUlQs/preview"
-        width="640"
-        height="480"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe></div>
-    </div>
-  </div>
-
-  <div class="aatm-episode">
-    <h3>EPISODE 2</h3>
-    <div class="aatm-project-video">
-      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1Fwe3lEUkYQcMAChJlYFmhK_LKHIQtUWs/preview"
-        width="640"
-        height="480"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe></div>
-    </div>
-  </div>
-
-  <div class="aatm-episode">
-    <h3>EPISODE 3</h3>
-    <div class="aatm-project-video">
-      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1h2KL5ONBu-BAmEpwGDE0fdykNMJy9dJD/preview"
-        width="640"
-        height="480"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe></div>
-    </div>
-  </div>
-
-  <div class="aatm-episode">
-    <h3>EPISODE 4</h3>
-    <div class="aatm-project-video">
-      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1WbxJWg5AZvgx7SfcEoqWpZ_f8ZlsrqmW/preview"
-        width="640"
-        height="480"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe></div>
-    </div>
-  </div>
-
-  <div class="aatm-project-details aatm-role">
-    <h3>MY ROLE & CONTRIBUTION</h3>
-    <ul>
-      <li>Research and content development for the series.</li>
-      <li>Identifying, meeting and interviewing participants.</li>
-      <li>Scriptwriting and preparing questions and talking points for the host.</li>
-      <li>End-to-end pre-production planning and coordination.</li>
-      <li>Coordinating with the shooting team and managing production requirements.</li>
-      <li>Coordinating with partner companies including Swiggy, Rapido, DeHaat and Instamart.</li>
-      <li>Managing communication and coordination to ensure smooth production.</li>
-      <li>Working with the editor, reviewing edits, providing feedback and overseeing repeated revisions through final delivery.</li>
-    </ul>
-  </div>
-
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Colors TV UK | Desi Beats – Season 5</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/colors-tv-uk-or-desi-beats-season-5/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/colors-tv-uk-or-desi-beats-season-5/</id>
-            <category term="Writing &amp; Copywriting"/>
-
-        <updated>2026-10-31T23:50:29+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .desi-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
-
-.desi-project {
-  width: 100%;
-  max-width: 1100px;
-  margin: 25px auto;
-}
-
-.desi-details {
-  max-width: 850px;
-}
-
-.desi-details h2 {
-  font-family: 'Google Sans Flex', sans-serif;
-  color: #f5f1e9;
-  font-size: 30px;
-  font-weight: 700;
-  letter-spacing: -0.8px;
-  line-height: 1.22;
-  margin: 0 0 14px;
-}
-
-.desi-details p {
-  font-family: 'DM Sans', sans-serif;
-  color: #d0cec9;
-  font-size: 15px;
-  line-height: 1.6;
-  margin: 0 0 22px;
-}
-
-.desi-details h3 {
-  font-family: 'DM Sans', sans-serif;
-  color: #c8ad82;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 1.3px;
-  margin: 28px 0 12px;
-}
-
-.desi-video {
-  width: 100%;
-  container-type: inline-size;
-  background: #000;
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-.desi-video iframe {
-  display: block;
-  width: 100%;
-  height: calc(75cqw + 24px);
-  border: 0;
-  border-radius: 6px;
-}
-
-.desi-role {
-  padding-top: 8px;
-}
-
-.desi-role ul {
-  padding-left: 18px;
-  margin: 0;
-}
-
-.desi-role li {
-  font-family: 'DM Sans', sans-serif;
-  color: #e0ddd7;
-  font-size: 14px;
-  line-height: 1.5;
-  margin-bottom: 8px;
-}
-
-@media (max-width: 700px) {
-  .desi-details h2 {
-    font-size: 26px;
-  }
-}
-</style>
-
-<div class="desi-project">
-
-  <div class="desi-details">
-    <h2>Colors TV UK | Desi Beats – Season 5</h2>
-    <p>
-      Desi Beats is a cookery show hosted by Tommy Sandhu for Colors TV UK.
-    </p>
-
-    <h3>PROMOTIONAL VIDEO</h3>
-  </div>
-
-  <div class="desi-video">
-    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1Epg6Cfn3RkMtPwsaoeSDxEDSXzNHq6GV/preview"
-      width="640"
-      height="480"
-      allow="autoplay; fullscreen"
-      allowfullscreen>
-    </iframe></div>
-  </div>
-
-  <div class="desi-details">
-    <h3>CREDITS VIDEO</h3>
-  </div>
-
-  <div class="desi-video">
-    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/16EP0B-8FCjGIvOGZxoFlkpikjDbays3_/preview"
-      width="640"
-      height="480"
-      allow="autoplay; fullscreen"
-      allowfullscreen>
-    </iframe></div>
-  </div>
-
-  <div class="desi-details desi-role">
-    <h3>MY ROLE</h3>
-    <ul>
-      <li>Scriptwriting for the first 10 episodes of Desi Beats Season 5.</li>
-    </ul>
-  </div>
-
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Crossing Puddles | Short Film</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/crossing-puddles-or-short-film/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/crossing-puddles-or-short-film/</id>
-            <category term="Video Editing"/>
-            <category term="Audio &amp; Music Production"/>
-
-        <updated>2026-10-31T23:48:54+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .film-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
-
-.film-project {
-  width: 100%;
-  max-width: 1100px;
-  margin: 25px auto;
-}
-
-.film-project-video {
-  width: 100%;
-  container-type: inline-size;
-  background: #000;
-  border-radius: 6px;
-}
-
-.film-project-video iframe {
-  display: block;
-  width: 100%;
-  height: calc(75cqw + 24px);
-  border: 0;
-  border-radius: 6px;
-}
-
-.film-project-details {
-  padding-top: 24px;
-  max-width: 850px;
-}
-
-.film-project-details h2 {
-  font-family: 'Google Sans Flex', sans-serif;
-  color: #f5f1e9;
-  font-size: 30px;
-  font-weight: 700;
-  letter-spacing: -0.8px;
-  line-height: 1.22;
-  margin: 0 0 14px;
-}
-
-.film-project-details p {
-  font-family: 'DM Sans', sans-serif;
-  color: #d0cec9;
-  font-size: 15px;
-  line-height: 1.6;
-  margin: 0 0 22px;
-}
-
-.film-project-details h3 {
-  font-family: 'DM Sans', sans-serif;
-  color: #c8ad82;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 1.3px;
-  margin: 0 0 12px;
-}
-
-.film-project-details ul {
-  padding-left: 18px;
-  margin: 0;
-}
-
-.film-project-details li {
-  font-family: 'DM Sans', sans-serif;
-  color: #e0ddd7;
-  font-size: 14px;
-  line-height: 1.5;
-  margin-bottom: 8px;
-}
-
-@media (max-width: 700px) {
-  .film-project-details {
-    padding-top: 20px;
-  }
-
-  .film-project-details h2 {
-    font-size: 26px;
-  }
-}
-</style>
-
-<div class="film-project">
-  <div class="film-project-video">
-    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/0B1zTVzy_eRNHVHUyY3k1dEVSMTQ/preview?resourcekey=0-mENO9pCDB64POxyeTF6qUw"
-      width="640"
-      height="480"
-      allow="autoplay; fullscreen"
-      allowfullscreen>
-    </iframe></div>
-  </div>
-
-  <div class="film-project-details">
-    <h2>Crossing Puddles | Short Film</h2>
-
-    <p>
-      An earlier short film project showcasing my work across video editing, original music and voice-over.
-    </p>
-
-    <h3>MY CONTRIBUTION</h3>
-    <ul>
-      <li>Video editing and narrative assembly.</li>
-      <li>Original music composition and production.</li>
-      <li>Voice-over recording and delivery.</li>
-      <li>Audio-visual integration and final post-production.</li>
-    </ul>
-  </div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Siddharth Slathia | Music Video Edit</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/siddharth-slathia-or-music-video-edit/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/siddharth-slathia-or-music-video-edit/</id>
-            <category term="Video Editing"/>
-
-        <updated>2026-10-31T23:43:39+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .film-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
-
-.film-project {
-  width: 100%;
-  max-width: 1100px;
-  margin: 25px auto;
-}
-
-.film-project-video {
-  width: 100%;
-  container-type: inline-size;
-  background: #000;
-  border-radius: 6px;
-}
-
-.film-project-video iframe {
-  display: block;
-  width: 100%;
-  height: calc(75cqw + 24px);
-  border: 0;
-  border-radius: 6px;
-}
-
-.film-project-details {
-  padding-top: 24px;
-  max-width: 850px;
-}
-
-.film-project-details h2 {
-  font-family: 'Google Sans Flex', sans-serif;
-  color: #f5f1e9;
-  font-size: 30px;
-  font-weight: 700;
-  letter-spacing: -0.8px;
-  line-height: 1.22;
-  margin: 0 0 14px;
-}
-
-.film-project-details p {
-  font-family: 'DM Sans', sans-serif;
-  color: #d0cec9;
-  font-size: 15px;
-  line-height: 1.6;
-  margin: 0 0 22px;
-}
-
-.film-project-details h3 {
-  font-family: 'DM Sans', sans-serif;
-  color: #c8ad82;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 1.3px;
-  margin: 0 0 12px;
-}
-
-.film-project-details ul {
-  padding-left: 18px;
-  margin: 0;
-}
-
-.film-project-details li {
-  font-family: 'DM Sans', sans-serif;
-  color: #e0ddd7;
-  font-size: 14px;
-  line-height: 1.5;
-  margin-bottom: 8px;
-}
-
-@media (max-width: 700px) {
-  .film-project-details {
-    padding-top: 20px;
-  }
-
-  .film-project-details h2 {
-    font-size: 26px;
-  }
-}
-</style>
-
-<div class="film-project">
-  <div class="film-project-video">
-    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/0B1zTVzy_eRNHU0YwUHJHeGpxWDA/preview?resourcekey=0-ugSA6o9Aqe_auCTj6JbOqw"
-      width="640"
-      height="480"
-      allow="autoplay; fullscreen"
-      allowfullscreen>
-    </iframe></div>
-  </div>
-
-  <div class="film-project-details">
-    <h2>Siddharth Slathia | Music Video Edit</h2>
-
-    <p>
-      Music video edited for singer Siddharth Slathia.
-    </p>
-
-    <h3>MY CONTRIBUTION</h3>
-    <ul>
-      <li>Video editing and post-production.</li>
-    </ul>
-  </div>
 </div>
 </div>
             ]]>
