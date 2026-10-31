@@ -3,12 +3,859 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://	kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-01T04:39:01+05:30</updated>
+    <updated>2026-11-01T05:09:20+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
     <id>https://	kartikayashivomrania.github.io/portfolio</id>
 
+    <entry>
+        <title>Aatm Nirbhar | AI-Generated Social Media Videos</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-ai-generated-social-media-videos/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-ai-generated-social-media-videos/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+            <category term="Motion Graphics"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T05:05:45+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.google-project {
+    display: grid;
+    grid-template-columns: 340px minmax(0, 1fr);
+    gap: 32px;
+    max-width: 1000px;
+    margin: 25px auto;
+    align-items: start;
+}
+
+.google-project-video {
+    width: 100%;
+    max-width: 340px;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.google-project-video iframe {
+    display: block;
+    width: 100%;
+    height: 605px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.google-project-details {
+    padding-top: 16px;
+    max-width: 600px;
+}
+
+.google-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.google-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.google-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+.google-project-divider {
+    display: block;
+    width: 100%;
+    max-width: 1000px;
+    height: 1px;
+    margin: 35px auto;
+    padding: 0;
+    border: 0 !important;
+    background: rgba(200, 173, 130, 0.25);
+}
+
+.google-project-divider::before,
+.google-project-divider::after {
+    content: none !important;
+    display: none !important;
+}
+
+@media (max-width: 700px) {
+    .google-project {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .google-project-video {
+        max-width: 340px;
+    }
+
+    .google-project-video iframe {
+        height: 605px;
+    }
+
+    .google-project-details {
+        padding-top: 0;
+    }
+}
+</style>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1Yec4gmP69C8cUg8mBim6Zv7zODSTbjIk/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+        <h3>AI Video 01</h3>
+        <p>
+            The first video in a series of AI-generated social media
+            videos created for Aatm Nirbhar.
+        </p>
+    </div>
+
+</div>
+
+<div class="google-project-divider"></div>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1HWMom_hGwl_CQM-NG6qZJ5WLSUz4_fWM/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+        <h3>AI Video 02</h3>
+        <p>
+            The second video in the Aatm Nirbhar AI-generated
+            social media video series.
+        </p>
+    </div>
+
+</div>
+
+<div class="google-project-divider"></div>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1JrLuVOlkoT4ITwCLQdE_EYGiPLwoaf5Z/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+        <h3>AI Video 03</h3>
+        <p>
+            The third video in the Aatm Nirbhar AI-generated
+            social media video series.
+        </p>
+    </div>
+
+</div>
+
+<div class="google-project-divider"></div>
+
+<div class="google-project-details" style="max-width:850px; margin:35px auto;">
+
+    <h3>Project Overview</h3>
+    <p>
+        A collection of three AI-generated social media videos
+        created for Aatm Nirbhar. Each video was developed using
+        Google Flow as part of the creative production process.
+    </p>
+
+    <h3>My Contribution</h3>
+    <ul>
+        <li>Content writing</li>
+        <li>Creative development</li>
+        <li>Prompt writing and development using Google Flow</li>
+        <li>AI video generation</li>
+        <li>Video editing and post-production</li>
+        <li>End-to-end creative execution</li>
+    </ul>
+
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aatm Nirbhar | Lead Generation Reel</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-lead-generation-reel/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-lead-generation-reel/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T05:02:56+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.google-project {
+    display: grid;
+    grid-template-columns: 340px minmax(0, 1fr);
+    gap: 32px;
+    max-width: 1000px;
+    margin: 25px auto;
+    align-items: start;
+}
+
+.google-project-video {
+    width: 100%;
+    max-width: 340px;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.google-project-video iframe {
+    display: block;
+    width: 100%;
+    height: 605px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.google-project-details {
+    padding-top: 16px;
+    max-width: 600px;
+}
+
+.google-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.google-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.google-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+@media (max-width: 700px) {
+    .google-project {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .google-project-video {
+        max-width: 340px;
+    }
+
+    .google-project-video iframe {
+        height: 605px;
+    }
+
+    .google-project-details {
+        padding-top: 0;
+    }
+}
+</style>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1Ev6iA6XPdujv4GTo7SI_AbVfPlQnrUkF/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A lead-generation social media video for Aatm Nirbhar.
+            Featuring a host explaining what the organisation offers
+            students, the video communicates its student opportunities
+            and benefits in an accessible format designed to generate
+            interest and enquiries.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Concept development</li>
+            <li>Writing and messaging</li>
+            <li>Direction and shoot</li>
+            <li>Video editing and post-production</li>
+            <li>End-to-end creative execution</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aatm Nirbhar | Scooty Seekho Cutie – Tutorial Series</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-scooty-seekho-cutie-tutorial-series/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-scooty-seekho-cutie-tutorial-series/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T05:00:46+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.google-project {
+    display: grid;
+    grid-template-columns: 340px minmax(0, 1fr);
+    gap: 32px;
+    max-width: 1000px;
+    margin: 25px auto;
+    align-items: start;
+}
+
+.google-project-video {
+    width: 100%;
+    max-width: 340px;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.google-project-video iframe {
+    display: block;
+    width: 100%;
+    height: 605px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.google-project-details {
+    padding-top: 16px;
+    max-width: 600px;
+}
+
+.google-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.google-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.google-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+@media (max-width: 700px) {
+    .google-project {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .google-project-video {
+        max-width: 340px;
+    }
+
+    .google-project-video iframe {
+        height: 605px;
+    }
+
+    .google-project-details {
+        padding-top: 0;
+    }
+}
+</style>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1XX-uQ8D4xE9J1sY4NOzodgkriOtO6vSs/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            Scooty Seekho Cutie is a scooter-learning tutorial series
+            created for Aatm Nirbhar. Designed to make learning to ride
+            a scooty more approachable, the series uses accessible,
+            practical tutorial-style content to help women build
+            confidence and learn a new skill.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Series concept and naming — coined "Scooty Seekho Cutie"</li>
+            <li>Content development and tutorial planning</li>
+            <li>Writing and scripting</li>
+            <li>Direction</li>
+            <li>Shooting and footage capture</li>
+            <li>Video editing and post-production</li>
+            <li>Overall end-to-end production</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aatm Nirbhar | Student Testimonial</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-student-testimonial/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-student-testimonial/</id>
+            <category term="Video Editing"/>
+
+        <updated>2026-11-01T04:57:40+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.google-project {
+    display: grid;
+    grid-template-columns: 340px minmax(0, 1fr);
+    gap: 32px;
+    max-width: 1000px;
+    margin: 25px auto;
+    align-items: start;
+}
+
+.google-project-video {
+    width: 100%;
+    max-width: 340px;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.google-project-video iframe {
+    display: block;
+    width: 100%;
+    height: 605px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.google-project-details {
+    padding-top: 16px;
+    max-width: 600px;
+}
+
+.google-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.google-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.google-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+@media (max-width: 700px) {
+    .google-project {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .google-project-video {
+        max-width: 340px;
+    }
+
+    .google-project-video iframe {
+        height: 605px;
+    }
+
+    .google-project-details {
+        padding-top: 0;
+    }
+}
+</style>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/15fjDKBXAU7bJ_EzRPNemQm0gJ9bNqQOp/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A student testimonial video created for Aatm Nirbhar,
+            featuring an international student sharing their experience.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Video editing</li>
+            <li>Footage selection and sequencing</li>
+            <li>Post-production</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aatm Nirbhar | Women’s Day Campaign</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-womens-day-campaign/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-womens-day-campaign/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T04:55:15+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.google-project {
+    display: grid;
+    grid-template-columns: 340px minmax(0, 1fr);
+    gap: 32px;
+    max-width: 1000px;
+    margin: 25px auto;
+    align-items: start;
+}
+
+.google-project-video {
+    width: 100%;
+    max-width: 340px;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.google-project-video iframe {
+    display: block;
+    width: 100%;
+    height: 605px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.google-project-details {
+    padding-top: 16px;
+    max-width: 600px;
+}
+
+.google-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.google-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.google-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+@media (max-width: 700px) {
+    .google-project {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .google-project-video {
+        max-width: 340px;
+    }
+
+    .google-project-video iframe {
+        height: 605px;
+    }
+
+    .google-project-details {
+        padding-top: 0;
+    }
+}
+</style>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1mQKXaqAxzSkUcWv209eWK3kDVp0DrADr/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A Women's Day campaign created for Aatm Nirbhar.
+            The project involved developing and executing the creative
+            work for the social media video, from the initial idea
+            and writing through direction and final editing.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Campaign concept and creative development</li>
+            <li>Writing and content development</li>
+            <li>Direction</li>
+            <li>Video editing and post-production</li>
+            <li>Overall creative execution and production, excluding the shoot</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aatm Nirbhar | Social Media Reel</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-social-media-reel/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-social-media-reel/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T04:49:32+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.google-project {
+    display: grid;
+    grid-template-columns: 340px minmax(0, 1fr);
+    gap: 32px;
+    max-width: 1000px;
+    margin: 25px auto;
+    align-items: start;
+}
+
+.google-project-video {
+    width: 100%;
+    max-width: 340px;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.google-project-video iframe {
+    display: block;
+    width: 100%;
+    height: 605px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.google-project-details {
+    padding-top: 16px;
+    max-width: 600px;
+}
+
+.google-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.google-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.google-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+@media (max-width: 700px) {
+    .google-project {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .google-project-video {
+        max-width: 340px;
+    }
+
+    .google-project-video iframe {
+        height: 605px;
+    }
+
+    .google-project-details {
+        padding-top: 0;
+    }
+}
+</style>
+
+<div class="google-project">
+
+    <div class="google-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/13lhW6g5YpPecDDjVpBHqRBB-HJd4sypF/preview"
+            width="340"
+            height="605"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="google-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A short-form social media video created for Aatm Nirbhar.
+            The project involved end-to-end content creation and production,
+            from developing the written content to shooting and finishing
+            the final edit.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Concept and writing</li>
+            <li>Direction</li>
+            <li>Shooting and footage capture</li>
+            <li>Video editing and post-production</li>
+            <li>Overall end-to-end production</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aatm Nirbhar | Mardon Wale Kaam – Content Strategy, Campaign Planning &amp; Production</title>
         <author>
@@ -518,266 +1365,6 @@
 <li>Discussing the creative execution with the designer to communicate the intended content and presentation.</li>
 </ul>
 <p class="baazi-credit">My contribution was focused on writing and content development. The visual design and artwork were handled by the designer.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Baazi Games | Cash Bomb – Landing Page Copywriting</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-cash-bomb-landing-page-copywriting/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-cash-bomb-landing-page-copywriting/</id>
-            <category term="Writing &amp; Copywriting"/>
-
-        <updated>2026-11-01T03:58:32+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Cash Bomb was a Baazi Games feature built around match-wise investment leaderboards,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/1.-Landing-Page-BB-CB.png" data-size="627x748"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/1.-Landing-Page-BB-CB-thumbnail.png" alt="" width="627" height="748"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/3.-Landing-Page-BB-CB.png" data-size="701x876"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/3.-Landing-Page-BB-CB-thumbnail.png" alt="" width="701" height="876"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/2.-Landing-Page-BB-CB.png" data-size="710x637"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/2.-Landing-Page-BB-CB-thumbnail.png" alt="" width="710" height="637"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/4.-Landing-Page-BB-CB.png" data-size="761x876"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/4.-Landing-Page-BB-CB-thumbnail.png" alt="" width="761" height="876"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/5.-Landing-Page-BB-CB.png" data-size="756x827"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/35//gallery/5.-Landing-Page-BB-CB-thumbnail.png" alt="" width="756" height="827"></a></figure>
-</div></div>
-<div class="baazi-project">
-<div class="baazi-details">
-<p>Cash Bomb was a Baazi Games feature built around match-wise investment leaderboards, cashback and rewards. The landing page explained how the feature worked and helped users understand its participation structure.</p>
-<p>I was responsible for writing the landing-page content, translating the supplied product information and mechanics into clear, structured communication for users.</p>
-<h3>PAGE CONTENT</h3>
-<ul>
-<li>Cash Bomb introduction and feature benefits.</li>
-<li>Leaderboard structure, prize pools and winning positions.</li>
-<li>Cash Bomb levels and their relationship with league entry amounts.</li>
-<li>Eligibility requirements and participation information.</li>
-<li>Frequently asked questions covering rankings, winnings, cashback and reward distribution.</li>
-<li>Terms and conditions explaining the feature's rules and limitations.</li>
-</ul>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>End-to-end landing-page copywriting.</li>
-<li>Writing and structuring product explanations.</li>
-<li>Developing clear FAQ responses and terms-and-conditions content.</li>
-<li>Organising information into a logical page flow for easy understanding.</li>
-</ul>
-<p class="baazi-credit">My responsibility was the writing and content development. I was not involved in the original campaign concept or ideation, and the visual design was handled separately.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | Campus Club – Malamaal Quiz Campaign</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-malamaal-quiz-campaign/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-malamaal-quiz-campaign/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T03:40:39+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Malamaal Quiz was a Campus Club promotional campaign by Sunstone, created to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://	kartikayashivomrania.github.io/portfolio/media/posts/34/CC-M-Quiz.png" alt="" width="1200" height="628" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-xs.png 320w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-sm.png 480w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-md.png 768w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/34/responsive/CC-M-Quiz-xl.png 1024w"></figure>
-<div class="campus-project">
-<div class="campus-details">
-<p>Malamaal Quiz was a Campus Club promotional campaign by Sunstone, created to engage its student audience through a quiz-based initiative.</p>
-<p>I handled the campaign from concept development and communication through creative execution, coordinating the people involved in bringing the promotional mailer to life.</p>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>Campaign concept development and communication planning.</li>
-<li>End-to-end copywriting and promotional messaging.</li>
-<li>Developing the creative brief and guiding the visual direction.</li>
-<li>Briefing and guiding designers through creative execution.</li>
-<li>Handling team coordination and overseeing the campaign deliverable.</li>
-<li>Reviewing the final creative to ensure alignment with the campaign communication.</li>
-</ul>
-<p class="campus-credit">I was responsible for the campaign's concept, writing, creative direction and team coordination. The visual artwork was executed by the design team under my guidance.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | Campus Club – Brain Wars Promotional Copywriting</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brain-wars-promotional-copywriting/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-brain-wars-promotional-copywriting/</id>
-            <category term="Writing &amp; Copywriting"/>
-
-        <updated>2026-11-01T03:17:08+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Brain Wars was a Campus Club promotional initiative by Sunstone. This project&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://	kartikayashivomrania.github.io/portfolio/media/posts/33/SS-Brain-Wars.png" alt="" width="1414" height="2000" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://%20kartikayashivomrania.github.io/portfolio/media/posts/33/responsive/SS-Brain-Wars-xs.png 320w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/33/responsive/SS-Brain-Wars-sm.png 480w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/33/responsive/SS-Brain-Wars-md.png 768w ,https://%20kartikayashivomrania.github.io/portfolio/media/posts/33/responsive/SS-Brain-Wars-xl.png 1024w"></figure>
-<div class="campus-project">
-<div class="campus-details">
-<p>Brain Wars was a Campus Club promotional initiative by Sunstone. This project showcases the written communication developed to promote the initiative and engage its student audience.</p>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>Copywriting for the Brain Wars promotional creative.</li>
-<li>Developing and refining the written messaging.</li>
-<li>Communicating the initiative through clear, audience-focused promotional copy.</li>
-</ul>
-<p class="campus-credit">My contribution to this project was limited to the writing and copy. Visual design and artwork were handled separately.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | Campus Club – Laptop Offer Brochure</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-laptop-offer-brochure/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-laptop-offer-brochure/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T03:12:10+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Campus Club, a student-focused initiative by Sunstone, created this laptop offer brochure&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0003.jpg" data-size="4267x3200"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0003-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0004.jpg" data-size="4267x3200"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0004-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0002.jpg" data-size="4267x3200"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0002-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0001.jpg" data-size="4267x3200"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/32/gallery/SunStone-CC-Laptop-Brochure_page-0001-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-<div class="campus-project">
-<div class="campus-details">
-<p>Campus Club, a student-focused initiative by Sunstone, created this laptop offer brochure to help college students explore affordable laptop options for their academic and everyday needs.</p>
-<p>The brochure brought together laptop options from Lenovo, Dell and HP, presenting their specifications, pricing and bundled accessories in a clear, student-friendly format.</p>
-<h3>PROJECT APPROACH</h3>
-<ul>
-<li>Developed the campaign concept and central communication: “Chase Excellence, Digitally!”</li>
-<li>Shaped the offer messaging around the availability of the latest laptops at accessible prices.</li>
-<li>Structured product information, specifications, pricing and included accessories for easy comparison.</li>
-<li>Maintained a consistent communication approach across the different laptop brands and product options.</li>
-</ul>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>End-to-end copywriting and content development for the brochure.</li>
-<li>Concept development and communication strategy.</li>
-<li>Creative direction and briefing of the design team.</li>
-<li>Guiding designers through the visual execution and layout.</li>
-<li>Team coordination and review of the final creative output.</li>
-</ul>
-<p class="campus-credit">I handled the project from concept and written communication through creative direction and team coordination. The visual artwork and layout were executed by the design team under my guidance.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | Campus Club – Email &amp; Mailer Copywriting</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-email-and-mailer-copywriting/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-campus-club-email-and-mailer-copywriting/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T03:05:41+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    A collection of email and promotional mailer communications developed for Sunstone's Campus&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/31/gallery/CC-Mailer.png" data-size="600x1572"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/31/gallery/CC-Mailer-thumbnail.png" alt="" width="600" height="1572"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/31/gallery/CC-Welcome-Email.png" data-size="615x2786"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/31/gallery/CC-Welcome-Email-thumbnail.png" alt="" width="615" height="2786"></a></figure>
-</div></div>
-<div class="cc-email-project">
-<div class="cc-email-details">
-<p>A collection of email and promotional mailer communications developed for Sunstone's Campus Club, a student-focused initiative connecting college students with academic, career and community opportunities.</p>
-<p>I was responsible for developing the written communication and coordinating its creative execution, working closely with the design team to translate the messaging into the final email and mailer creatives.</p>
-<h3>MY ROLE &amp; CONTRIBUTION</h3>
-<ul>
-<li>Complete copywriting for the Campus Club promotional mailer.</li>
-<li>Complete copywriting for the Campus Club welcome email.</li>
-<li>Developing and structuring the messaging for both communications.</li>
-<li>Briefing and guiding the designer on the creative direction and execution.</li>
-<li>Handling and coordinating the team involved in delivering the communication.</li>
-<li>Reviewing the creative execution to ensure the final output aligned with the intended messaging.</li>
-</ul>
-<p class="cc-email-credit">My responsibilities covered copywriting, creative direction and team coordination. The visual artwork and design execution were handled by the design team under my guidance.</p>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sunstone | RISE – Career Guidance Initiative</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/sunstone-or-rise-career-guidance-initiative/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/sunstone-or-rise-career-guidance-initiative/</id>
-            <category term="Writing &amp; Copywriting"/>
-
-        <updated>2026-11-01T03:01:23+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    Sunstone RISE was a career guidance initiative designed for students from Classes&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/30/gallery/SS-Rise-Mail_page-0001.jpg" data-size="2481x3508"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/30/gallery/SS-Rise-Mail_page-0001-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/30/gallery/SS-Rise-Mail_page-0002.jpg" data-size="2481x3508"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/30/gallery/SS-Rise-Mail_page-0002-thumbnail.jpg" alt="" width="768" height="1086"></a></figure>
-</div></div>
-<div class="rise-project">
-<div class="rise-details">
-<p>Sunstone RISE was a career guidance initiative designed for students from Classes 11 and 12, providing structured guidance through academic preparation, career exploration and scholarship opportunities.</p>
-<p>I developed the written communication for the initiative, including its brochure and school outreach email, translating the programme's offerings and four-stage structure into clear, engaging messaging for students and educational institutions.</p>
-<h3>PROGRAMME &amp; BROCHURE COPY</h3>
-<p>Developed the content explaining the four stages of the RISE initiative:</p>
-<ul>
-<li>Junior UG Program – An introduction to undergraduate education and what lies ahead.</li>
-<li>Board Exam Prep – Tips, toolkits and expert guidance for board examinations.</li>
-<li>Career Coach – Counselling to help students better understand their career options.</li>
-<li>National Scholarship Test – An opportunity to compete for scholarships worth up to ₹1 crore.</li>
-</ul>
-<h3>SCHOOL OUTREACH COMMUNICATION</h3>
-<p>Developed the outreach email introducing Sunstone RISE to schools, explaining the programme's objectives, its educational components and the proposed partnership with institutions.</p>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>Complete copywriting for the RISE brochure.</li>
-<li>Content development and messaging for all four programme stages.</li>
-<li>Writing and structuring programme descriptions and student benefits.</li>
-<li>Copywriting for school outreach and partnership communication.</li>
-<li>Developing clear messaging for students, parents and educational institutions.</li>
-</ul>
-<p class="rise-credit">My contribution covered the written content and copywriting for the brochure and school outreach communication.</p>
 </div>
 </div>
             ]]>
