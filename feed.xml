@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kartikaya Shiv Omrania</title>
+    <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://	kartikayashivomrania.github.io/portfolio" />
+    <updated>2026-11-01T00:41:24+05:30</updated>
+    <author>
+        <name>Kartikaya Shiv Omrania</name>
+    </author>
+    <id>https://	kartikayashivomrania.github.io/portfolio</id>
+
+    <entry>
+        <title>Aatm Nirbhar | Mardon Wale Kaam</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Campaigns &amp; Content Production"/>
+
+        <updated>2026-11-01T00:41:24+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .aatm-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.aatm-project {
+  width: 100%;
+  max-width: 1100px;
+  margin: 25px auto;
+}
+
+.aatm-project-details {
+  max-width: 850px;
+}
+
+.aatm-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 14px;
+}
+
+.aatm-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.aatm-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 28px 0 12px;
+}
+
+.aatm-project-video {
+  width: 100%;
+  container-type: inline-size;
+  background: #000;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.aatm-project-video iframe {
+  display: block;
+  width: 100%;
+  height: calc(75cqw + 24px);
+  border: 0;
+  border-radius: 6px;
+}
+
+.aatm-episode {
+  margin-top: 28px;
+}
+
+.aatm-episode h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.aatm-role {
+  padding-top: 8px;
+}
+
+.aatm-role ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.aatm-role li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 9px;
+}
+
+@media (max-width: 700px) {
+  .aatm-project-details h2 {
+    font-size: 26px;
+  }
+
+  .aatm-role {
+    padding-top: 4px;
+  }
+}
+</style>
+
+<div class="aatm-project">
+
+  <div class="aatm-project-details">
+    <h2>Aatm Nirbhar | Mardon Wale Kaam</h2>
+
+    <p>
+      A four-episode content series developed through Aatm Nirbhar. My involvement extended across research, content development, participant interviews, pre-production, production coordination and post-production supervision.
+    </p>
+  </div>
+
+  <div class="aatm-episode">
+    <h3>EPISODE 1</h3>
+    <div class="aatm-project-video">
+      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1JptimovDE-pAC2EaREeGd9hplt9aUlQs/preview"
+        width="640"
+        height="480"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe></div>
+    </div>
+  </div>
+
+  <div class="aatm-episode">
+    <h3>EPISODE 2</h3>
+    <div class="aatm-project-video">
+      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1Fwe3lEUkYQcMAChJlYFmhK_LKHIQtUWs/preview"
+        width="640"
+        height="480"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe></div>
+    </div>
+  </div>
+
+  <div class="aatm-episode">
+    <h3>EPISODE 3</h3>
+    <div class="aatm-project-video">
+      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1h2KL5ONBu-BAmEpwGDE0fdykNMJy9dJD/preview"
+        width="640"
+        height="480"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe></div>
+    </div>
+  </div>
+
+  <div class="aatm-episode">
+    <h3>EPISODE 4</h3>
+    <div class="aatm-project-video">
+      <div class="post__iframe"><iframe loading="lazy"         src="https://drive.google.com/file/d/1WbxJWg5AZvgx7SfcEoqWpZ_f8ZlsrqmW/preview"
+        width="640"
+        height="480"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe></div>
+    </div>
+  </div>
+
+  <div class="aatm-project-details aatm-role">
+    <h3>MY ROLE & CONTRIBUTION</h3>
+    <ul>
+      <li>Research and content development for the series.</li>
+      <li>Identifying, meeting and interviewing participants.</li>
+      <li>Scriptwriting and preparing questions and talking points for the host.</li>
+      <li>End-to-end pre-production planning and coordination.</li>
+      <li>Coordinating with the shooting team and managing production requirements.</li>
+      <li>Coordinating with partner companies including Swiggy, Rapido, DeHaat and Instamart.</li>
+      <li>Managing communication and coordination to ensure smooth production.</li>
+      <li>Working with the editor, reviewing edits, providing feedback and overseeing repeated revisions through final delivery.</li>
+    </ul>
+  </div>
+
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Colors TV UK | Desi Beats – Season 5</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/colors-tv-uk-or-desi-beats-season-5/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/colors-tv-uk-or-desi-beats-season-5/</id>
+            <category term="Writing &amp; Copywriting"/>
+
+        <updated>2026-10-31T23:50:29+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .desi-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.desi-project {
+  width: 100%;
+  max-width: 1100px;
+  margin: 25px auto;
+}
+
+.desi-details {
+  max-width: 850px;
+}
+
+.desi-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 14px;
+}
+
+.desi-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.desi-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 28px 0 12px;
+}
+
+.desi-video {
+  width: 100%;
+  container-type: inline-size;
+  background: #000;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.desi-video iframe {
+  display: block;
+  width: 100%;
+  height: calc(75cqw + 24px);
+  border: 0;
+  border-radius: 6px;
+}
+
+.desi-role {
+  padding-top: 8px;
+}
+
+.desi-role ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.desi-role li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .desi-details h2 {
+    font-size: 26px;
+  }
+}
+</style>
+
+<div class="desi-project">
+
+  <div class="desi-details">
+    <h2>Colors TV UK | Desi Beats – Season 5</h2>
+    <p>
+      Desi Beats is a cookery show hosted by Tommy Sandhu for Colors TV UK.
+    </p>
+
+    <h3>PROMOTIONAL VIDEO</h3>
+  </div>
+
+  <div class="desi-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1Epg6Cfn3RkMtPwsaoeSDxEDSXzNHq6GV/preview"
+      width="640"
+      height="480"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="desi-details">
+    <h3>CREDITS VIDEO</h3>
+  </div>
+
+  <div class="desi-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/16EP0B-8FCjGIvOGZxoFlkpikjDbays3_/preview"
+      width="640"
+      height="480"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="desi-details desi-role">
+    <h3>MY ROLE</h3>
+    <ul>
+      <li>Scriptwriting for the first 10 episodes of Desi Beats Season 5.</li>
+    </ul>
+  </div>
+
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Crossing Puddles | Short Film</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/crossing-puddles-or-short-film/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/crossing-puddles-or-short-film/</id>
+            <category term="Video Editing"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-10-31T23:48:54+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .film-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.film-project {
+  width: 100%;
+  max-width: 1100px;
+  margin: 25px auto;
+}
+
+.film-project-video {
+  width: 100%;
+  container-type: inline-size;
+  background: #000;
+  border-radius: 6px;
+}
+
+.film-project-video iframe {
+  display: block;
+  width: 100%;
+  height: calc(75cqw + 24px);
+  border: 0;
+  border-radius: 6px;
+}
+
+.film-project-details {
+  padding-top: 24px;
+  max-width: 850px;
+}
+
+.film-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 14px;
+}
+
+.film-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.film-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.film-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.film-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .film-project-details {
+    padding-top: 20px;
+  }
+
+  .film-project-details h2 {
+    font-size: 26px;
+  }
+}
+</style>
+
+<div class="film-project">
+  <div class="film-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/0B1zTVzy_eRNHVHUyY3k1dEVSMTQ/preview?resourcekey=0-mENO9pCDB64POxyeTF6qUw"
+      width="640"
+      height="480"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="film-project-details">
+    <h2>Crossing Puddles | Short Film</h2>
+
+    <p>
+      An earlier short film project showcasing my work across video editing, original music and voice-over.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>Video editing and narrative assembly.</li>
+      <li>Original music composition and production.</li>
+      <li>Voice-over recording and delivery.</li>
+      <li>Audio-visual integration and final post-production.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Siddharth Slathia | Music Video Edit</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/siddharth-slathia-or-music-video-edit/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/siddharth-slathia-or-music-video-edit/</id>
+            <category term="Video Editing"/>
+
+        <updated>2026-10-31T23:43:39+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .film-project { width: 100%; max-width: 1100px; margin: 25px auto; }&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.film-project {
+  width: 100%;
+  max-width: 1100px;
+  margin: 25px auto;
+}
+
+.film-project-video {
+  width: 100%;
+  container-type: inline-size;
+  background: #000;
+  border-radius: 6px;
+}
+
+.film-project-video iframe {
+  display: block;
+  width: 100%;
+  height: calc(75cqw + 24px);
+  border: 0;
+  border-radius: 6px;
+}
+
+.film-project-details {
+  padding-top: 24px;
+  max-width: 850px;
+}
+
+.film-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 14px;
+}
+
+.film-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.film-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.film-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.film-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .film-project-details {
+    padding-top: 20px;
+  }
+
+  .film-project-details h2 {
+    font-size: 26px;
+  }
+}
+</style>
+
+<div class="film-project">
+  <div class="film-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/0B1zTVzy_eRNHU0YwUHJHeGpxWDA/preview?resourcekey=0-ugSA6o9Aqe_auCTj6JbOqw"
+      width="640"
+      height="480"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="film-project-details">
+    <h2>Siddharth Slathia | Music Video Edit</h2>
+
+    <p>
+      Music video edited for singer Siddharth Slathia.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>Video editing and post-production.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wedding Recap | Markee Media</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/wedding-recap-or-markee-media/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/wedding-recap-or-markee-media/</id>
+            <category term="Video Editing"/>
+
+        <updated>2026-10-31T23:38:11+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.google-project {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 25px auto;
+  align-items: start;
+}
+
+.google-project-video {
+  width: 100%;
+  max-width: 340px;
+}
+
+.google-project-video iframe {
+  display: block;
+  width: 100%;
+  height: 605px;
+  border: 0;
+}
+
+.google-project-details {
+  padding-top: 16px;
+}
+
+.google-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 18px;
+}
+
+.google-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.google-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.google-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.google-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .google-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .google-project-video {
+    max-width: 340px;
+  }
+
+  .google-project-video iframe {
+    height: 605px;
+  }
+
+  .google-project-details {
+    padding-top: 0;
+  }
+}
+</style>
+
+<div class="google-project">
+  <div class="google-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1mrbqfMjCoXdxCYYmsGKi_Hp1bLUAqrj-/preview"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="google-project-details">
+    <h2>Wedding Recap | Markee Media</h2>
+
+    <p>
+      A wedding recap video edited for a client through Markee Media, where I worked as a freelance video editor.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>End-to-end video editing and post-production.</li>
+      <li>Footage selection and sequencing.</li>
+      <li>Storytelling and narrative flow.</li>
+      <li>Pacing, transitions and visual continuity.</li>
+      <li>Final edit and finishing.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wedding Highlight | Markee Media</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/wedding-highlight-or-markee-media/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/wedding-highlight-or-markee-media/</id>
+            <category term="Video Editing"/>
+
+        <updated>2026-10-31T23:36:22+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.google-project {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 25px auto;
+  align-items: start;
+}
+
+.google-project-video {
+  width: 100%;
+  max-width: 340px;
+}
+
+.google-project-video iframe {
+  display: block;
+  width: 100%;
+  height: 605px;
+  border: 0;
+}
+
+.google-project-details {
+  padding-top: 16px;
+}
+
+.google-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 18px;
+}
+
+.google-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.google-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.google-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.google-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .google-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .google-project-video {
+    max-width: 340px;
+  }
+
+  .google-project-video iframe {
+    height: 605px;
+  }
+
+  .google-project-details {
+    padding-top: 0;
+  }
+}
+</style>
+
+<div class="google-project">
+  <div class="google-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1OEnwKFtVbKPpuC4mhDy6xS5TKOZfNr6W/preview"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="google-project-details">
+    <h2>Wedding Highlight | Markee Media</h2>
+
+    <p>
+      A wedding highlight film edited for a client through Markee Media, where I worked as a freelance video editor.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>End-to-end video editing and post-production.</li>
+      <li>Footage selection and sequencing.</li>
+      <li>Storytelling and narrative flow.</li>
+      <li>Pacing, transitions and visual continuity.</li>
+      <li>Final edit and finishing.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Jesty Beats | FL Studio Tutorial</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/jesty-beats-or-fl-studio-tutorial/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/jesty-beats-or-fl-studio-tutorial/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+
+        <updated>2026-10-31T23:34:09+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.google-project {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 25px auto;
+  align-items: start;
+}
+
+.google-project-video {
+  width: 100%;
+  max-width: 340px;
+}
+
+.google-project-video iframe {
+  display: block;
+  width: 100%;
+  height: 605px;
+  border: 0;
+}
+
+.google-project-details {
+  padding-top: 16px;
+}
+
+.google-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 18px;
+}
+
+.google-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.google-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.google-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.google-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .google-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .google-project-video {
+    max-width: 340px;
+  }
+
+  .google-project-video iframe {
+    height: 605px;
+  }
+
+  .google-project-details {
+    padding-top: 0;
+  }
+}
+</style>
+
+<div class="google-project">
+  <div class="google-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1fi7Z5XwD8Z1itTW7UW1Q0ubUxhwqcRkj/preview"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="google-project-details">
+    <h2>Jesty | FL Studio Tutorial</h2>
+
+    <p>
+      An instructional video for US-based music producer Jesty, covering FL Studio and its music production workflow.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>End-to-end video production and post-production.</li>
+      <li>Scriptwriting and content development.</li>
+      <li>Tutorial structure and instructional storytelling.</li>
+      <li>Video editing and sequencing.</li>
+      <li>Audio editing and sound design.</li>
+      <li>On-screen text and visual elements.</li>
+      <li>Final post-production.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sakalya Ayurveda | Diabetes in Kerala</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/sakalya-ayurveda-or-diabetes-in-kerala/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/sakalya-ayurveda-or-diabetes-in-kerala/</id>
+            <category term="Video Editing"/>
+
+        <updated>2026-10-31T23:33:16+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.google-project {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 25px auto;
+  align-items: start;
+}
+
+.google-project-video {
+  width: 100%;
+  max-width: 340px;
+}
+
+.google-project-video iframe {
+  display: block;
+  width: 100%;
+  height: 605px;
+  border: 0;
+}
+
+.google-project-details {
+  padding-top: 16px;
+}
+
+.google-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 18px;
+}
+
+.google-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.google-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.google-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.google-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .google-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .google-project-video {
+    max-width: 340px;
+  }
+
+  .google-project-video iframe {
+    height: 605px;
+  }
+
+  .google-project-details {
+    padding-top: 0;
+  }
+}
+</style>
+
+<div class="google-project">
+  <div class="google-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1BpA5f0skOMl_wzeMOOsvO2EBPMjZqEyw/preview"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="google-project-details">
+    <h2>Sakalya Ayurveda | Diabetes in Kerala</h2>
+
+    <p>
+      An informational video created for an Ayurvedic hospital, focusing on diabetes in Kerala.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>Video editing and sequencing.</li>
+      <li>Footage selection and visual storytelling.</li>
+      <li>Sound design and audio editing.</li>
+      <li>Music selection and synchronisation.</li>
+      <li>On-screen text and visual elements.</li>
+      <li>Colour correction and final post-production.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Popoholic Anonymous | KPop Demon Hunters 2</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/popoholic-anonymous-or-kpop-demon-hunters-2/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/popoholic-anonymous-or-kpop-demon-hunters-2/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Video Editing"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-10-31T23:07:24+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.google-project {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 25px auto;
+  align-items: start;
+}
+
+.google-project-video {
+  width: 100%;
+  max-width: 340px;
+}
+
+.google-project-video iframe {
+  display: block;
+  width: 100%;
+  height: 605px;
+  border: 0;
+}
+
+.google-project-details {
+  padding-top: 16px;
+}
+
+.google-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 18px;
+}
+
+.google-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.google-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.google-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.google-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .google-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .google-project-video {
+    max-width: 340px;
+  }
+
+  .google-project-video iframe {
+    height: 605px;
+  }
+
+  .google-project-details {
+    padding-top: 0;
+  }
+}
+</style>
+
+<div class="google-project">
+  <div class="google-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1Q_eHMBqtOA9Y64jJ9FSN_KCujKoeAC9h/preview"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="google-project-details">
+    <h2>Popoholic Anonymous | KPop Demon Hunters 2</h2>
+
+    <p>
+      A pop-culture news video covering the confirmation of KPop Demon Hunters 2.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>Research and video clip sourcing.</li>
+      <li>Scriptwriting and content development.</li>
+      <li>AI voice-over creation.</li>
+      <li>Video editing and sequencing.</li>
+      <li>AI-generated background music composition.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>One8 World | Virat Kohli Event Coverage</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/one8-world-or-virat-kohli-event-coverage/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/one8-world-or-virat-kohli-event-coverage/</id>
+            <category term="Video Editing"/>
+
+        <updated>2026-10-31T22:30:16+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap'); .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Google+Sans+Flex:opsz,wght@6..144,400..700&display=swap');
+
+.google-project {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  gap: 32px;
+  max-width: 1000px;
+  margin: 25px auto;
+  align-items: start;
+}
+
+.google-project-video {
+  width: 100%;
+  max-width: 340px;
+}
+
+.google-project-video iframe {
+  display: block;
+  width: 100%;
+  height: 605px;
+  border: 0;
+}
+
+.google-project-details {
+  padding-top: 16px;
+}
+
+.google-project-details h2 {
+  font-family: 'Google Sans Flex', sans-serif;
+  color: #f5f1e9;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  line-height: 1.22;
+  margin: 0 0 18px;
+}
+
+.google-project-details p {
+  font-family: 'DM Sans', sans-serif;
+  color: #d0cec9;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 22px;
+}
+
+.google-project-details h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #c8ad82;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  margin: 0 0 12px;
+}
+
+.google-project-details ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.google-project-details li {
+  font-family: 'DM Sans', sans-serif;
+  color: #e0ddd7;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+@media (max-width: 700px) {
+  .google-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .google-project-video {
+    max-width: 340px;
+  }
+
+  .google-project-video iframe {
+    height: 605px;
+  }
+
+  .google-project-details {
+    padding-top: 0;
+  }
+}
+</style>
+
+<div class="google-project">
+  <div class="google-project-video">
+    <div class="post__iframe"><iframe loading="lazy"       src="https://drive.google.com/file/d/1VjX8xhQ8Bjmw2SNz3-L9vbrCdpVEDgBb/preview"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe></div>
+  </div>
+
+  <div class="google-project-details">
+    <h2>One8 World | Virat Kohli Event Coverage</h2>
+
+    <p>
+      Event coverage video from a One8 World event featuring Virat Kohli, produced for Capsul.
+    </p>
+
+    <h3>MY CONTRIBUTION</h3>
+    <ul>
+      <li>Video editing and footage sequencing.</li>
+      <li>On-screen text and titles.</li>
+      <li>Sound design and audio editing.</li>
+    </ul>
+  </div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
