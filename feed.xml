@@ -3,7 +3,7 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://	kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-01T07:11:57+05:30</updated>
+    <updated>2026-11-02T05:12:39+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-background-scoring/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-background-scoring/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Uniform-Background-Scoring-Layout.png" medium="image" />
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T07:11:57+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Uniform-Background-Scoring-Layout.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Uniform-Background-Scoring-Layout.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
