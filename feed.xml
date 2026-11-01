@@ -3,1279 +3,241 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://	kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-01T05:09:20+05:30</updated>
+    <updated>2026-11-01T07:11:57+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
     <id>https://	kartikayashivomrania.github.io/portfolio</id>
 
     <entry>
-        <title>Aatm Nirbhar | AI-Generated Social Media Videos</title>
+        <title>Baazi Games | Background Scoring</title>
         <author>
             <name>Kartikaya Shiv Omrania</name>
         </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-ai-generated-social-media-videos/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-ai-generated-social-media-videos/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Video Editing"/>
-            <category term="Motion Graphics"/>
-            <category term="Campaigns &amp; Content Production"/>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-background-scoring/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-background-scoring/</id>
+            <category term="Audio &amp; Music Production"/>
 
-        <updated>2026-11-01T05:05:45+05:30</updated>
+        <updated>2026-11-01T07:11:57+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div><style>
-.google-project {
-    display: grid;
-    grid-template-columns: 340px minmax(0, 1fr);
-    gap: 32px;
-    max-width: 1000px;
-    margin: 25px auto;
-    align-items: start;
-}
-
-.google-project-video {
-    width: 100%;
-    max-width: 340px;
-    background: #000;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.google-project-video iframe {
-    display: block;
-    width: 100%;
-    height: 605px;
-    border: 0;
-    border-radius: 6px;
-}
-
-.google-project-details {
-    padding-top: 16px;
-    max-width: 600px;
-}
-
-.google-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-}
-
-.google-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
-}
-
-.google-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-.google-project-divider {
-    display: block;
-    width: 100%;
-    max-width: 1000px;
-    height: 1px;
-    margin: 35px auto;
-    padding: 0;
-    border: 0 !important;
-    background: rgba(200, 173, 130, 0.25);
-}
-
-.google-project-divider::before,
-.google-project-divider::after {
-    content: none !important;
-    display: none !important;
-}
-
-@media (max-width: 700px) {
-    .google-project {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .google-project-video {
-        max-width: 340px;
-    }
-
-    .google-project-video iframe {
-        height: 605px;
-    }
-
-    .google-project-details {
-        padding-top: 0;
-    }
-}
-</style>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1Yec4gmP69C8cUg8mBim6Zv7zODSTbjIk/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-        <h3>AI Video 01</h3>
-        <p>
-            The first video in a series of AI-generated social media
-            videos created for Aatm Nirbhar.
-        </p>
-    </div>
-
-</div>
-
-<div class="google-project-divider"></div>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1HWMom_hGwl_CQM-NG6qZJ5WLSUz4_fWM/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-        <h3>AI Video 02</h3>
-        <p>
-            The second video in the Aatm Nirbhar AI-generated
-            social media video series.
-        </p>
-    </div>
-
-</div>
-
-<div class="google-project-divider"></div>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1JrLuVOlkoT4ITwCLQdE_EYGiPLwoaf5Z/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-        <h3>AI Video 03</h3>
-        <p>
-            The third video in the Aatm Nirbhar AI-generated
-            social media video series.
-        </p>
-    </div>
-
-</div>
-
-<div class="google-project-divider"></div>
-
-<div class="google-project-details" style="max-width:850px; margin:35px auto;">
-
-    <h3>Project Overview</h3>
-    <p>
-        A collection of three AI-generated social media videos
-        created for Aatm Nirbhar. Each video was developed using
-        Google Flow as part of the creative production process.
-    </p>
-
-    <h3>My Contribution</h3>
-    <ul>
-        <li>Content writing</li>
-        <li>Creative development</li>
-        <li>Prompt writing and development using Google Flow</li>
-        <li>AI video generation</li>
-        <li>Video editing and post-production</li>
-        <li>End-to-end creative execution</li>
-    </ul>
-
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Lead Generation Reel</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-lead-generation-reel/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-lead-generation-reel/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Video Editing"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T05:02:56+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><style>
-.google-project {
-    display: grid;
-    grid-template-columns: 340px minmax(0, 1fr);
-    gap: 32px;
-    max-width: 1000px;
-    margin: 25px auto;
-    align-items: start;
-}
-
-.google-project-video {
-    width: 100%;
-    max-width: 340px;
-    background: #000;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.google-project-video iframe {
-    display: block;
-    width: 100%;
-    height: 605px;
-    border: 0;
-    border-radius: 6px;
-}
-
-.google-project-details {
-    padding-top: 16px;
-    max-width: 600px;
-}
-
-.google-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-}
-
-.google-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
-}
-
-.google-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-@media (max-width: 700px) {
-    .google-project {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .google-project-video {
-        max-width: 340px;
-    }
-
-    .google-project-video iframe {
-        height: 605px;
-    }
-
-    .google-project-details {
-        padding-top: 0;
-    }
-}
-</style>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1Ev6iA6XPdujv4GTo7SI_AbVfPlQnrUkF/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-
-        <h3>Project Overview</h3>
-        <p>
-            A lead-generation social media video for Aatm Nirbhar.
-            Featuring a host explaining what the organisation offers
-            students, the video communicates its student opportunities
-            and benefits in an accessible format designed to generate
-            interest and enquiries.
-        </p>
-
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Concept development</li>
-            <li>Writing and messaging</li>
-            <li>Direction and shoot</li>
-            <li>Video editing and post-production</li>
-            <li>End-to-end creative execution</li>
-        </ul>
-
-    </div>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Scooty Seekho Cutie – Tutorial Series</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-scooty-seekho-cutie-tutorial-series/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-scooty-seekho-cutie-tutorial-series/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Video Editing"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T05:00:46+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><style>
-.google-project {
-    display: grid;
-    grid-template-columns: 340px minmax(0, 1fr);
-    gap: 32px;
-    max-width: 1000px;
-    margin: 25px auto;
-    align-items: start;
-}
-
-.google-project-video {
-    width: 100%;
-    max-width: 340px;
-    background: #000;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.google-project-video iframe {
-    display: block;
-    width: 100%;
-    height: 605px;
-    border: 0;
-    border-radius: 6px;
-}
-
-.google-project-details {
-    padding-top: 16px;
-    max-width: 600px;
-}
-
-.google-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-}
-
-.google-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
-}
-
-.google-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-@media (max-width: 700px) {
-    .google-project {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .google-project-video {
-        max-width: 340px;
-    }
-
-    .google-project-video iframe {
-        height: 605px;
-    }
-
-    .google-project-details {
-        padding-top: 0;
-    }
-}
-</style>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1XX-uQ8D4xE9J1sY4NOzodgkriOtO6vSs/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-
-        <h3>Project Overview</h3>
-        <p>
-            Scooty Seekho Cutie is a scooter-learning tutorial series
-            created for Aatm Nirbhar. Designed to make learning to ride
-            a scooty more approachable, the series uses accessible,
-            practical tutorial-style content to help women build
-            confidence and learn a new skill.
-        </p>
-
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Series concept and naming — coined "Scooty Seekho Cutie"</li>
-            <li>Content development and tutorial planning</li>
-            <li>Writing and scripting</li>
-            <li>Direction</li>
-            <li>Shooting and footage capture</li>
-            <li>Video editing and post-production</li>
-            <li>Overall end-to-end production</li>
-        </ul>
-
-    </div>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Student Testimonial</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-student-testimonial/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-student-testimonial/</id>
-            <category term="Video Editing"/>
-
-        <updated>2026-11-01T04:57:40+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><style>
-.google-project {
-    display: grid;
-    grid-template-columns: 340px minmax(0, 1fr);
-    gap: 32px;
-    max-width: 1000px;
-    margin: 25px auto;
-    align-items: start;
-}
-
-.google-project-video {
-    width: 100%;
-    max-width: 340px;
-    background: #000;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.google-project-video iframe {
-    display: block;
-    width: 100%;
-    height: 605px;
-    border: 0;
-    border-radius: 6px;
-}
-
-.google-project-details {
-    padding-top: 16px;
-    max-width: 600px;
-}
-
-.google-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-}
-
-.google-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
-}
-
-.google-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-@media (max-width: 700px) {
-    .google-project {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .google-project-video {
-        max-width: 340px;
-    }
-
-    .google-project-video iframe {
-        height: 605px;
-    }
-
-    .google-project-details {
-        padding-top: 0;
-    }
-}
-</style>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/15fjDKBXAU7bJ_EzRPNemQm0gJ9bNqQOp/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-
-        <h3>Project Overview</h3>
-        <p>
-            A student testimonial video created for Aatm Nirbhar,
-            featuring an international student sharing their experience.
-        </p>
-
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Video editing</li>
-            <li>Footage selection and sequencing</li>
-            <li>Post-production</li>
-        </ul>
-
-    </div>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Women’s Day Campaign</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-womens-day-campaign/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-womens-day-campaign/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Video Editing"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T04:55:15+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><style>
-.google-project {
-    display: grid;
-    grid-template-columns: 340px minmax(0, 1fr);
-    gap: 32px;
-    max-width: 1000px;
-    margin: 25px auto;
-    align-items: start;
-}
-
-.google-project-video {
-    width: 100%;
-    max-width: 340px;
-    background: #000;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.google-project-video iframe {
-    display: block;
-    width: 100%;
-    height: 605px;
-    border: 0;
-    border-radius: 6px;
-}
-
-.google-project-details {
-    padding-top: 16px;
-    max-width: 600px;
-}
-
-.google-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-}
-
-.google-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
-}
-
-.google-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-@media (max-width: 700px) {
-    .google-project {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .google-project-video {
-        max-width: 340px;
-    }
-
-    .google-project-video iframe {
-        height: 605px;
-    }
-
-    .google-project-details {
-        padding-top: 0;
-    }
-}
-</style>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1mQKXaqAxzSkUcWv209eWK3kDVp0DrADr/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-
-        <h3>Project Overview</h3>
-        <p>
-            A Women's Day campaign created for Aatm Nirbhar.
-            The project involved developing and executing the creative
-            work for the social media video, from the initial idea
-            and writing through direction and final editing.
-        </p>
-
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Campaign concept and creative development</li>
-            <li>Writing and content development</li>
-            <li>Direction</li>
-            <li>Video editing and post-production</li>
-            <li>Overall creative execution and production, excluding the shoot</li>
-        </ul>
-
-    </div>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Social Media Reel</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-social-media-reel/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-social-media-reel/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Video Editing"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T04:49:32+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    .google-project { display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: 32px; max-width: 1000px;&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><style>
-.google-project {
-    display: grid;
-    grid-template-columns: 340px minmax(0, 1fr);
-    gap: 32px;
-    max-width: 1000px;
-    margin: 25px auto;
-    align-items: start;
-}
-
-.google-project-video {
-    width: 100%;
-    max-width: 340px;
-    background: #000;
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.google-project-video iframe {
-    display: block;
-    width: 100%;
-    height: 605px;
-    border: 0;
-    border-radius: 6px;
-}
-
-.google-project-details {
-    padding-top: 16px;
-    max-width: 600px;
-}
-
-.google-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-}
-
-.google-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
-}
-
-.google-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.8;
-}
-
-@media (max-width: 700px) {
-    .google-project {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .google-project-video {
-        max-width: 340px;
-    }
-
-    .google-project-video iframe {
-        height: 605px;
-    }
-
-    .google-project-details {
-        padding-top: 0;
-    }
-}
-</style>
-
-<div class="google-project">
-
-    <div class="google-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/13lhW6g5YpPecDDjVpBHqRBB-HJd4sypF/preview"
-            width="340"
-            height="605"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
-    </div>
-
-    <div class="google-project-details">
-
-        <h3>Project Overview</h3>
-        <p>
-            A short-form social media video created for Aatm Nirbhar.
-            The project involved end-to-end content creation and production,
-            from developing the written content to shooting and finishing
-            the final edit.
-        </p>
-
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Concept and writing</li>
-            <li>Direction</li>
-            <li>Shooting and footage capture</li>
-            <li>Video editing and post-production</li>
-            <li>Overall end-to-end production</li>
-        </ul>
-
-    </div>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aatm Nirbhar | Mardon Wale Kaam – Content Strategy, Campaign Planning &amp; Production</title>
-        <author>
-            <name>Kartikaya Shiv Omrania</name>
-        </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam-content-strategy-campaign-planning-and-production/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/aatm-nirbhar-or-mardon-wale-kaam-content-strategy-campaign-planning-and-production/</id>
-            <category term="Writing &amp; Copywriting"/>
-            <category term="Campaigns &amp; Content Production"/>
-
-        <updated>2026-11-01T04:29:04+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    .mwk-project { width: 100%; max-width: 1100px; margin: 25px auto; color: #d0cec9; font-family:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div>
-<style>
-.mwk-project {
+.film-project {
     width: 100%;
     max-width: 1100px;
     margin: 25px auto;
-    color: #d0cec9;
-    font-family: 'DM Sans', sans-serif;
-    line-height: 1.7;
 }
-.mwk-episode {
-    width: 100%;
-    margin: 30px auto 42px;
-}
-.mwk-episode-details {
-    max-width: 900px;
-    padding-bottom: 18px;
-}
-.mwk-episode-details h2 {
-    font-family: 'Google Sans Flex', sans-serif;
-    font-size: 25px;
-    font-weight: 600;
-    color: #f5f1e9;
-    margin: 0 0 10px;
-}
-.mwk-episode-details p,
-.mwk-project p {
-    font-size: 15px;
-    margin: 0 0 18px;
-}
-.mwk-episode-video {
+
+.film-project-video {
     width: 100%;
     container-type: inline-size;
     background: #000;
     border-radius: 6px;
+    overflow: hidden;
 }
-.mwk-episode-video iframe {
+
+.film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
     border: 0;
     border-radius: 6px;
 }
-.mwk-divider {
-    width: 100%;
-    height: 1px;
-    background: rgba(200,173,130,0.2);
-    margin: 38px 0;
+
+.film-project-track {
+    margin-bottom: 38px;
 }
-.mwk-content {
-    max-width: 900px;
-    margin: 45px auto 0;
-}
-.mwk-content h3 {
-    font-family: 'Google Sans Flex', sans-serif;
+
+.film-project-track h3 {
+    margin: 0 0 14px;
+    color: #c8ad82;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
     text-transform: uppercase;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
     color: #c8ad82;
-    margin: 30px 0 14px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
 }
-.mwk-content ul {
-    padding-left: 20px;
-    margin: 0 0 24px;
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
 }
-.mwk-content li {
-    font-size: 14px;
-    color: #e0ddd7;
-    margin-bottom: 9px;
-}
-.mwk-role {
-    margin-top: 30px !important;
-    padding-top: 20px;
-    border-top: 1px solid rgba(200,173,130,0.25);
-    color: #aaa69e;
-    font-size: 14px !important;
-}
-@media (max-width: 600px) {
-    .mwk-episode-details h2 {
-        font-size: 22px;
-    }
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
 }
 </style>
 
-<div class="mwk-project">
+<div class="film-project">
 
-    <!-- EPISODE 1 -->
-    <div class="mwk-episode">
-
-        <div class="mwk-episode-details">
-            <h2>Episode 1 – Swiggy Food Delivery</h2>
-            <p>
-                Exploring the process of becoming a Swiggy food delivery partner, taking viewers through the practical steps involved and the experience of entering the delivery workforce.
-            </p>
-        </div>
-
-        <div class="mwk-episode-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1JptimovDE-pAC2EaREeGd9hplt9aUlQs/preview"
-                width="640"
-                height="480"
+    <div class="film-project-track">
+        <h3>Rashid Khan Feature</h3>
+        <div class="film-project-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/16D0EZP8XcnNJGsWyGnA6dX0xL6lZx-4Y/preview"
                 allow="autoplay"
                 allowfullscreen>
             </iframe></div>
         </div>
-
     </div>
 
-    <div class="mwk-divider"></div>
-
-    <!-- EPISODE 2 -->
-    <div class="mwk-episode">
-
-        <div class="mwk-episode-details">
-            <h2>Episode 2 – Swiggy Instamart Delivery</h2>
-            <p>
-                A practical look at grocery delivery through Instamart, exploring dark stores, delivery shifts and the experiences of women working as Instamart delivery partners.
-            </p>
-        </div>
-
-        <div class="mwk-episode-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1Fwe3lEUkYQcMAChJlYFmhK_LKHIQtUWs/preview"
-                width="640"
-                height="480"
+    <div class="film-project-track">
+        <h3>Diwali Campaign</h3>
+        <div class="film-project-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1stZ8BKi9IJF0X52Cu4X7xUUuJXWV8alG/preview"
                 allow="autoplay"
                 allowfullscreen>
             </iframe></div>
         </div>
-
     </div>
 
-    <div class="mwk-divider"></div>
+    <div class="film-project-details">
 
-    <!-- EPISODE 3 -->
-    <div class="mwk-episode">
-
-        <div class="mwk-episode-details">
-            <h2>Episode 3 – Rapido Captain</h2>
-            <p>
-                Exploring the Rapido Captain registration process and the experiences of women working in bike and scooter-based passenger and delivery services.
-            </p>
-        </div>
-
-        <div class="mwk-episode-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1h2KL5ONBu-BAmEpwGDE0fdykNMJy9dJD/preview"
-                width="640"
-                height="480"
-                allow="autoplay"
-                allowfullscreen>
-            </iframe></div>
-        </div>
-
-    </div>
-
-    <div class="mwk-divider"></div>
-
-    <!-- EPISODE 4 -->
-    <div class="mwk-episode">
-
-        <div class="mwk-episode-details">
-            <h2>Episode 4 – DeHaat Village Representatives</h2>
-            <p>
-                Set in Tappal, Aligarh, this episode explores the work of women Village Representatives associated with DeHaat and their role in connecting farmers with agricultural services.
-            </p>
-        </div>
-
-        <div class="mwk-episode-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1WbxJWg5AZvgx7SfcEoqWpZ_f8ZlsrqmW/preview"
-                width="640"
-                height="480"
-                allow="autoplay"
-                allowfullscreen>
-            </iframe></div>
-        </div>
-
-    </div>
-
-    <!-- SEPARATOR AFTER EPISODE 4 -->
-    <div class="mwk-divider"></div>
-
-    <!-- PROJECT OVERVIEW AND CONTRIBUTION -->
-    <div class="mwk-content">
-
+        <h3>Project Overview</h3>
         <p>
-            Mardon Wale Kaam is an Aatm Nirbhar content series exploring professions traditionally perceived as men's work. Through real-world experiences and conversations with women already working in these roles, the series challenges assumptions about women's participation in different professions.
+            A selection of two video projects created for Baazi Games:
+            a feature starring Afghan cricketer Rashid Khan and
+            a Diwali-themed campaign video. Both projects involved
+            background scoring to complement the visuals and
+            establish the mood of each video.
         </p>
 
-        <p>
-            The project extended beyond individual YouTube episodes into a broader content and awareness initiative, with a distribution approach designed to take these stories beyond YouTube and reach relevant audiences.
-        </p>
-
-        <h3>CONTENT STRATEGY & CAMPAIGN PLANNING</h3>
+        <h3>My Contribution</h3>
         <ul>
-            <li>Developing the content approach around experience-led storytelling, practical job demonstrations and real women's experiences.</li>
-            <li>Structuring the content ecosystem around reach, engagement and lead generation.</li>
-            <li>Planning pre-launch, launch and post-launch communication.</li>
-            <li>Developing content calendars for teasers, curiosity-driven posts, carousels, short-form clips and episode releases.</li>
-            <li>Planning platform-specific content distribution across YouTube, Instagram, Facebook, WhatsApp and LinkedIn.</li>
-            <li>Developing a content repurposing approach to extract short-form stories, insights and human-interest clips from full episodes.</li>
-            <li>Planning creator and community amplification to extend the series into relevant audiences and women's networks.</li>
-            <li>Mapping individual episode clips to relevant Aatm Nirbhar, Scooter Rani, Scooty Didi and founder-led social channels.</li>
+            <li>Background scoring for both videos</li>
         </ul>
-
-        <h3>RESEARCH, EPISODE DEVELOPMENT & SCRIPTWRITING</h3>
-        <ul>
-            <li>Researching job roles, processes and practical information for episode narratives.</li>
-            <li>Writing Hindi scripts, hooks, presenter narration and episode introductions.</li>
-            <li>Structuring job demonstrations and explaining onboarding, registration and work processes.</li>
-            <li>Developing interview questions to explore the experiences, challenges, earnings and journeys of the women featured.</li>
-            <li>Building episode flow, transitions and storytelling to make each profession accessible to viewers.</li>
-        </ul>
-
-        <h3>CONTENT DISTRIBUTION & AMPLIFICATION</h3>
-        <ul>
-            <li>Planning short-form content from the full-length episodes for discovery and audience engagement.</li>
-            <li>Identifying stories around earnings, safety, work experiences and personal journeys for individual clips.</li>
-            <li>Planning community distribution through relevant women's networks and WhatsApp.</li>
-            <li>Exploring creator-led amplification, reactions and conversations around women entering traditionally male-dominated professions.</li>
-            <li>Connecting content distribution with awareness of livelihood and employment opportunities.</li>
-        </ul>
-
-        <p class="mwk-role">
-            My contribution covered content development, research, scripting, campaign and distribution planning, and the structuring of the series into a wider content ecosystem.
-        </p>
 
     </div>
-
-</div>
-</div>
+</div></div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>SEO Blogs &amp; Articles | MyMobileIndia &amp; VIPFortunes</title>
+        <title>Sangam Warriors | Official Team Anthem</title>
         <author>
             <name>Kartikaya Shiv Omrania</name>
         </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/seo-blogs-and-articles-or-mymobileindia-and-vipfortunes/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/seo-blogs-and-articles-or-mymobileindia-and-vipfortunes/</id>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/sangam-warriors-or-official-team-anthem/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/sangam-warriors-or-official-team-anthem/</id>
             <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
 
-        <updated>2026-11-01T04:14:47+05:30</updated>
+        <updated>2026-11-01T07:05:49+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    .editorial-project { width: 100%; max-width: 1000px; margin: 25px auto; color: #d0cec9; font-family:&hellip;
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div><style>
-.editorial-project {
+.film-project {
     width: 100%;
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 25px auto;
-    color: #d0cec9;
-    font-family: 'DM Sans', sans-serif;
-    line-height: 1.7;
 }
-.editorial-details {
-    max-width: 900px;
-    margin: 0 auto;
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
 }
-.editorial-details p {
-    font-size: 15px;
-    margin: 0 0 18px;
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
 }
-.editorial-details h3 {
-    font-family: 'Google Sans Flex', sans-serif;
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    color: #c8ad82;
-    margin: 32px 0 14px;
 }
-.editorial-list {
-    list-style: none;
-    padding: 0;
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
     margin: 0;
-}
-.editorial-list li {
-    padding: 10px 0;
-    border-bottom: 1px solid rgba(200,173,130,0.15);
-    font-size: 14px;
-}
-.editorial-list a {
-    color: #e0ddd7;
-    text-decoration: none;
-    transition: color 0.2s ease;
-}
-.editorial-list a:hover {
-    color: #c8ad82;
-}
-.editorial-note {
-    margin-top: 28px !important;
-    padding-top: 18px;
-    border-top: 1px solid rgba(200,173,130,0.25);
-    color: #aaa69e;
-    font-size: 14px !important;
-}
-@media (max-width: 600px) {
-    .editorial-details {
-        padding: 0 4px;
-    }
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
 }
 </style>
 
-<div class="editorial-project">
-    <div class="editorial-details">
+<div class="film-project">
 
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1ry3s7Pqu3qij9z75xJ-y-tGLVhcp5dty/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
         <p>
-            A selection of published SEO-oriented editorial articles written for MyMobileIndia and VIPFortunes, covering consumer technology, smartphones, gadgets, digital platforms, gaming, streaming, entertainment and pop culture.
+            The official team anthem for Sangam Warriors, a kabaddi
+            team competing in the Uttarakhand Premier Kabaddi League
+            (UPKL). The project involved creating an original song
+            to capture the team's identity and the energy of the sport.
         </p>
 
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Music composition</li>
+            <li>Vocal performance</li>
+            <li>Music production and arrangement</li>
+            <li>Audio mixing</li>
+            <li>Audio mastering</li>
+        </ul>
+
         <p>
-            My work involved researching topics and developing reader-focused articles around technology updates, product developments, practical guides, entertainment stories and trending subjects. The focus was on making information accessible, structuring content for online readership and creating articles suited to their respective audiences.
-        </p>
-
-        <h3>SMARTPHONES, GADGETS & CONSUMER TECHNOLOGY</h3>
-
-        <ul class="editorial-list">
-            <li><a href="https://www.mymobileindia.com/top-5-mistakes-that-are-causing-your-smartphone-to-underperform/" target="_blank" rel="noopener noreferrer">Top 5 Mistakes That Are Causing Your Smartphone to Underperform</a></li>
-
-            <li><a href="https://www.mymobileindia.com/oneplus-11-photos-leaked-showing-a-ceramic-body-and-more/" target="_blank" rel="noopener noreferrer">OnePlus 11 Photos Leaked, Showing a Ceramic Body and More</a></li>
-
-            <li><a href="https://www.mymobileindia.com/the-best-time-to-buy-a-oneplus-10-pro-is-here-huge-discounts-and-more/" target="_blank" rel="noopener noreferrer">The Best Time to Buy a OnePlus 10 Pro Is Here: Huge Discounts and More</a></li>
-
-            <li><a href="https://www.mymobileindia.com/samsung-will-use-an-overclocked-gpu-with-the-snapdragon-8-gen-2-processor/" target="_blank" rel="noopener noreferrer">Samsung Will Use an Overclocked GPU with the Snapdragon 8 Gen 2 Processor</a></li>
-
-            <li><a href="https://www.mymobileindia.com/good-news-oneplus-nord-ce-2-lite-oxygenos-13-beta-registrations-have-begun/" target="_blank" rel="noopener noreferrer">OnePlus Nord CE 2 Lite OxygenOS 13 Beta Registrations Have Begun</a></li>
-
-            <li><a href="https://www.mymobileindia.com/which-phone-has-a-better-camera-iphone-14-plus-or-pixel-7/" target="_blank" rel="noopener noreferrer">Which Phone Has a Better Camera: iPhone 14 Plus or Pixel 7?</a></li>
-
-            <li><a href="https://www.mymobileindia.com/why-apple-tv-4k-is-still-a-great-choice-in-2022/" target="_blank" rel="noopener noreferrer">Why Apple TV 4K Is Still a Great Choice in 2022</a></li>
-
-            <li><a href="https://www.mymobileindia.com/top-7-apple-watch-apps-you-should-download/" target="_blank" rel="noopener noreferrer">Top 7 Apple Watch Apps You Should Download</a></li>
-
-            <li><a href="https://www.mymobileindia.com/infinix-promises-shudh-5g-experience-with-the-new-hot-20-smartphones/" target="_blank" rel="noopener noreferrer">Infinix Promises Shudh 5G Experience with the New HOT 20 Smartphones</a></li>
-
-            <li><a href="https://www.mymobileindia.com/looking-for-best-5g-smartphones-under-rs-20000-your-search-ends-here/" target="_blank" rel="noopener noreferrer">Best 5G Smartphones Under Rs 20,000</a></li>
-
-            <li><a href="https://www.mymobileindia.com/iphone-14-pro-max-is-the-fastest-according-to-ookla/" target="_blank" rel="noopener noreferrer">iPhone 14 Pro Max Is the Fastest, According to Ookla</a></li>
-
-            <li><a href="https://www.mymobileindia.com/snapdragon-782g-this-is-the-futures-best-selling-qualcomm-chip" target="_blank" rel="noopener noreferrer">Snapdragon 782G: This Is the Future's Best-Selling Qualcomm Chip</a></li>
-
-            <li><a href="https://www.mymobileindia.com/nothing-ear-stick-the-best-earplugs-under-%e2%82%b910000/" target="_blank" rel="noopener noreferrer">Nothing Ear (Stick): The Best Earplugs Under ₹10,000?</a></li>
-
-            <li><a href="https://www.mymobileindia.com/a-buttonless-iphone-is-on-the-way/" target="_blank" rel="noopener noreferrer">A Buttonless iPhone Is on the Way</a></li>
-
-            <li><a href="https://www.mymobileindia.com/amazon-fab-phone-fest-begins-on-26th-nov-check-top-offers-here/" target="_blank" rel="noopener noreferrer">Amazon Fab Phone Fest Begins on 26th November: Top Offers</a></li>
-        </ul>
-
-        <h3>DIGITAL GUIDES & HOW-TO ARTICLES</h3>
-
-        <ul class="editorial-list">
-            <li><a href="https://www.mymobileindia.com/your-complete-guide-to-ott-in-2022-is-here-with-top-underrated-platforms/" target="_blank" rel="noopener noreferrer">Your Complete Guide to OTT in 2022, with Top Underrated Platforms</a></li>
-
-            <li><a href="https://www.mymobileindia.com/what-is-tamil-play-and-should-you-download-movies-from-it-in-2022/" target="_blank" rel="noopener noreferrer">What Is Tamil Play and Should You Download Movies from It?</a></li>
-
-            <li><a href="https://www.mymobileindia.com/a-quick-guide-to-whatsapp-web/" target="_blank" rel="noopener noreferrer">A Quick Guide to WhatsApp Web</a></li>
-
-            <li><a href="https://www.mymobileindia.com/10-features-for-android-users-that-will-keep-you-safe-from-hackers-and-viruses/" target="_blank" rel="noopener noreferrer">10 Features for Android Users That Help Keep You Safe from Hackers and Viruses</a></li>
-
-            <li><a href="https://www.mymobileindia.com/avatar-the-way-of-water-out-on-december-16th-heres-how-to-get-the-tickets/" target="_blank" rel="noopener noreferrer">Avatar: The Way of Water – How to Get the Tickets</a></li>
-
-            <li><a href="https://www.mymobileindia.com/fifa-world-cup-2022-broadcast-in-india-learn-how-to-watch-for-free/" target="_blank" rel="noopener noreferrer">FIFA World Cup 2022 Broadcast in India: How to Watch for Free</a></li>
-        </ul>
-
-        <h3>ENTERTAINMENT, STREAMING & GAMING</h3>
-
-        <ul class="editorial-list">
-            <li><a href="https://www.mymobileindia.com/cod-warzone-is-coming-to-ios-pre-registrations-are-open-now/" target="_blank" rel="noopener noreferrer">COD: Warzone Is Coming to iOS – Pre-Registrations Are Open</a></li>
-
-            <li><a href="https://www.mymobileindia.com/deadpool-3-is-working-title-will-make-wolverine-fans-very-happy/" target="_blank" rel="noopener noreferrer">Deadpool 3's Working Title Will Make Wolverine Fans Very Happy</a></li>
-
-            <li><a href="https://www.mymobileindia.com/top-7-spy-series-to-binge-watch-on-major-streaming-services/" target="_blank" rel="noopener noreferrer">Top 7 Spy Series to Binge-Watch on Major Streaming Services</a></li>
-
-            <li><a href="https://www.mymobileindia.com/deadpool-has-a-secret-christmas-theme-script-but-we-might-not-see-it/" target="_blank" rel="noopener noreferrer">Deadpool Has a Secret Christmas-Themed Script, but We Might Not See It</a></li>
-
-            <li><a href="https://www.mymobileindia.com/the-real-meaning-behind-black-panther-wakanda-forevers-end/" target="_blank" rel="noopener noreferrer">The Real Meaning Behind Black Panther: Wakanda Forever's End</a></li>
-
-            <li><a href="https://www.mymobileindia.com/sony-is-bringing-the-spider-man-universe-to-the-small-screen/" target="_blank" rel="noopener noreferrer">Sony Is Bringing the Spider-Man Universe to the Small Screen</a></li>
-
-            <li><a href="https://www.mymobileindia.com/1899-the-most-unsettling-netflix-releases-of-the-year-will-make-you-wonder/" target="_blank" rel="noopener noreferrer">1899: The Most Unsettling Netflix Release of the Year</a></li>
-
-            <li><a href="https://www.mymobileindia.com/your-favourite-marvel-superhero-might-join-the-avengers/" target="_blank" rel="noopener noreferrer">Your Favourite Marvel Superhero Might Join the Avengers</a></li>
-
-            <li><a href="https://www.mymobileindia.com/marvels-spider-man-miles-morales-is-a-delight-for-pc-players/" target="_blank" rel="noopener noreferrer">Marvel's Spider-Man: Miles Morales Is a Delight for PC Players</a></li>
-
-            <li><a href="https://www.mymobileindia.com/the-guardians-of-the-galaxy-holiday-special-crucial-plot-details-revealed/" target="_blank" rel="noopener noreferrer">The Guardians of the Galaxy Holiday Special: Crucial Plot Details Revealed</a></li>
-
-            <li><a href="https://www.mymobileindia.com/netflixs-new-series-wednesday-is-a-step-in-the-right-direction/" target="_blank" rel="noopener noreferrer">Netflix's New Series Wednesday Is a Step in the Right Direction</a></li>
-        </ul>
-
-        <h3>CELEBRITY & POP CULTURE – VIPFORTUNES</h3>
-
-        <ul class="editorial-list">
-            <li><a href="https://vipfortunes.com/news/is-eminem-actually-gay" target="_blank" rel="noopener noreferrer">Is Eminem Actually Gay?</a></li>
-        </ul>
-
-        <p class="editorial-note">
-            My contribution to these projects was editorial research, SEO-oriented content writing and article development for online publication. The articles are linked to their original publisher pages. The VIPFortunes article was published under a site-assigned author name.
+            I handled the complete song creation and audio production.
+            The visuals were handled separately.
         </p>
 
     </div>
@@ -1284,87 +246,813 @@
         </content>
     </entry>
     <entry>
-        <title>Baazi Games | Newsletters – Research &amp; Copywriting</title>
+        <title>Legends League Cricket | Official Anthem</title>
         <author>
             <name>Kartikaya Shiv Omrania</name>
         </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-newsletters-research-and-copywriting/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-newsletters-research-and-copywriting/</id>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/legends-league-cricket-or-official-anthem/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/legends-league-cricket-or-official-anthem/</id>
             <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
 
-        <updated>2026-11-01T04:13:34+05:30</updated>
+        <updated>2026-11-01T06:55:36+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    As part of Baazi Games' newsletter communication, I worked on two editions&hellip;
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-1.jpg" data-size="600x2516"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-1-thumbnail.jpg" alt="" width="600" height="2516"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-2.png" data-size="600x2258"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/37/gallery/BB-News-Letter-2-thumbnail.png" alt="" width="600" height="2258"></a></figure>
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/13MfdwkeCqrL7vbXmN_MIGbJRug9xs_tE/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            The official anthem for Legends League Cricket.
+            The project involved creating an original anthem
+            to capture the energy and spirit of the league
+            through music and vocals.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Vocal performance</li>
+            <li>Music co-production</li>
+        </ul>
+
+    </div>
 </div></div>
-<div class="baazi-project">
-<div class="baazi-details">
-<p>As part of Baazi Games' newsletter communication, I worked on two editions covering company updates, platform developments, brand initiatives and people within the organisation.</p>
-<p>The newsletters brought together updates from different teams and brands, employee stories, product developments and community-focused content. The aim was to turn information from across the organisation into engaging, readable newsletter content.</p>
-<h3>CONTENT HIGHLIGHTS</h3>
-<ul>
-<li>BalleBaazi's fourth anniversary and reflections from team members.</li>
-<li>Company and platform updates, including BalleBaazi 3.0.</li>
-<li>CardBaazi and PokerBaazi updates and initiatives.</li>
-<li>Team stories, employee introductions and personal interests.</li>
-<li>Internal updates and engaging features for the newsletter audience.</li>
-</ul>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>Researching topics and gathering information for newsletter stories.</li>
-<li>Speaking with relevant people to collect details, perspectives and inputs.</li>
-<li>Developing and writing the newsletter content from A to Z.</li>
-<li>Structuring stories, headlines, introductions and individual content sections.</li>
-<li>Editing and refining copy for clarity, flow and readability.</li>
-<li>Working with the designer to discuss the content and its visual presentation.</li>
-</ul>
-<p class="baazi-credit">My responsibility covered research, information gathering and complete written content. Visual design and layout were handled by the designer.</p>
-</div>
-</div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Baazi Games | Promotional Emails – Copywriting</title>
+        <title>Zupee | Ludo Campaign</title>
         <author>
             <name>Kartikaya Shiv Omrania</name>
         </author>
-        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-promotional-emails-copywriting/"/>
-        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-promotional-emails-copywriting/</id>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/zupee-or-ludo-campaign-original-songs/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/zupee-or-ludo-campaign-original-songs/</id>
             <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
 
-        <updated>2026-11-01T04:00:25+05:30</updated>
+        <updated>2026-11-01T06:52:19+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    As part of Baazi Games' email communication, I worked on the copywriting&hellip;
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-1.jpg" data-size="590x2697"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-1-thumbnail.jpg" alt="" width="590" height="2697"></a></figure>
-<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-2.jpg" data-size="620x1926"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/36/gallery/BB-Mail-2-thumbnail.jpg" alt="" width="620" height="1926"></a></figure>
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-track {
+    margin-bottom: 38px;
+}
+
+.film-project-track h3 {
+    margin: 0 0 14px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-track">
+        <h3>Song 01</h3>
+        <div class="film-project-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1iMENr-1TGPL-jhhn1zuA_tQ2l9g9dARO/preview"
+                allow="autoplay"
+                allowfullscreen>
+            </iframe></div>
+        </div>
+    </div>
+
+    <div class="film-project-track">
+        <h3>Song 02</h3>
+        <div class="film-project-video">
+            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1EkiD7FfEDe0FIqX8D4B0GO170Xbkm9Tn/preview"
+                allow="autoplay"
+                allowfullscreen>
+            </iframe></div>
+        </div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            Two original songs created for Zupee's Ludo Campaign.
+            Both tracks involved complete songwriting and audio
+            production, from developing the lyrics and composing
+            the music to recording vocals and completing the
+            final mix and master.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Music composition</li>
+            <li>Vocal performance</li>
+            <li>Music production and arrangement</li>
+            <li>Audio mixing</li>
+            <li>Audio mastering</li>
+        </ul>
+
+        <p>
+            The visual production for both songs was handled
+            separately. My contribution covered the complete
+            creation and production of the audio.
+        </p>
+
+    </div>
 </div></div>
-<div class="baazi-project">
-<div class="baazi-details">
-<p>As part of Baazi Games' email communication, I worked on the copywriting for two promotional emails designed to share company updates, platform developments, brand communication and community-focused stories with the audience.</p>
-<p>The emails covered subjects including BalleBaazi's anniversary, platform updates, developments across Baazi Games' brands, and stories highlighting people and activities within the organisation.</p>
-<h3>MY CONTRIBUTION</h3>
-<ul>
-<li>End-to-end copywriting for both promotional emails.</li>
-<li>Writing and structuring all email content, headlines and section descriptions.</li>
-<li>Organising information into a clear and engaging email flow.</li>
-<li>Refining messaging for readability, tone and audience engagement.</li>
-<li>Discussing the creative execution with the designer to communicate the intended content and presentation.</li>
-</ul>
-<p class="baazi-credit">My contribution was focused on writing and content development. The visual design and artwork were handled by the designer.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | Sachin Tendulkar Birthday Anthem</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-sachin-tendulkar-birthday-anthem/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-sachin-tendulkar-birthday-anthem/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-11-01T06:40:52+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1R2jKNgCnNv3t7yLrZVTSzWf_Cy_j6yon/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            An original birthday anthem created for Baazi Games
+            to celebrate Sachin Tendulkar. The project involved
+            creating a complete original song, from writing the
+            lyrics and composing the music to recording and
+            finishing the final audio production.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Music composition</li>
+            <li>Vocal performance</li>
+            <li>Music production and arrangement</li>
+            <li>Audio mixing</li>
+            <li>Audio mastering</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | End Boss – Original Song Production</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-end-boss-original-song-production/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-end-boss-original-song-production/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-11-01T06:38:40+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1DJcFpg2R-xKVVBVDYdgSoixd0-kqRY3f/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            An original song created for Baazi Games' End Boss
+            campaign. I handled the complete song creation and
+            audio production, developing the lyrics and music
+            and taking the track through to its final mix and master.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Music composition</li>
+            <li>Vocal performance</li>
+            <li>Music production and arrangement</li>
+            <li>Audio mixing</li>
+            <li>Audio mastering</li>
+        </ul>
+
+        <p>
+            The campaign concept and visual production were
+            handled by other teams. My contribution was the
+            complete original song and its audio production.
+        </p>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | T20 Anthem ft. Divyendu</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-anthem-ft-divyendu/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-anthem-ft-divyendu/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-11-01T06:34:33+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1fZhBeQ9ph8-n7oZqic6zFmgBxKatp5ys/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A T20-themed anthem created for Baazi Games,
+            featuring Divyendu. The project involved developing
+            and producing an original vocal track for the campaign.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Vocal performance</li>
+            <li>Music production</li>
+            <li>Audio mixing</li>
+            <li>Audio mastering</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Baazi Games | T20 Cricket World Cup Anthem</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-cricket-world-cup-anthem/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-cricket-world-cup-anthem/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-11-01T06:31:49+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1DBCnY-V8A9Cbbh1fYKzyo6KRsqHe0KrO/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A T20 Cricket World Cup anthem created for Baazi Games.
+            The project involved developing an original rap and
+            musical composition to capture the energy and excitement
+            surrounding T20 cricket.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Lyrics and songwriting</li>
+            <li>Music composition</li>
+            <li>Vocal performance</li>
+            <li>Audio mixing</li>
+            <li>Audio mastering</li>
+        </ul>
+
+        <p>
+            The video visuals were produced by a separate agency.
+            My contribution was focused on the complete audio
+            creation and production.
+        </p>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Access Bank | Buddhi Money Song</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/access-bank-or-buddhi-money-song/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/access-bank-or-buddhi-money-song/</id>
+            <category term="Writing &amp; Copywriting"/>
+            <category term="Audio &amp; Music Production"/>
+
+        <updated>2026-11-01T06:24:41+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><style>
+.film-project {
+    width: 100%;
+    max-width: 1100px;
+    margin: 25px auto;
+}
+
+.film-project-video {
+    width: 100%;
+    container-type: inline-size;
+    background: #000;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.film-project-video iframe {
+    display: block;
+    width: 100%;
+    height: calc(75cqw + 24px);
+    border: 0;
+    border-radius: 6px;
+}
+
+.film-project-details {
+    padding-top: 24px;
+    max-width: 850px;
+}
+
+.film-project-details h3 {
+    margin: 0 0 12px;
+    color: #c8ad82;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.film-project-details p {
+    margin: 0 0 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.film-project-details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #d0cec9;
+    font-size: 15px;
+    line-height: 1.8;
+}
+</style>
+
+<div class="film-project">
+
+    <div class="film-project-video">
+        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1l0z_7PaVTImMlAsaZ-o_x7R8XdXK_TF8/preview"
+            allow="autoplay"
+            allowfullscreen>
+        </iframe></div>
+    </div>
+
+    <div class="film-project-details">
+
+        <h3>Project Overview</h3>
+        <p>
+            A rap-based opening segment created for Access Bank.
+            The piece uses an original rap written and performed
+            by me to introduce the video.
+        </p>
+
+        <h3>My Contribution</h3>
+        <ul>
+            <li>Rap concept and writing</li>
+            <li>Lyrics and composition of the rap</li>
+            <li>Rap performance and original vocal delivery</li>
+            <li>Final dubbing handled by another performer</li>
+        </ul>
+
+    </div>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AAP Bihar | Social Media Research &amp; Copywriting</title>
+        <author>
+            <name>Kartikaya Shiv Omrania</name>
+        </author>
+        <link href="https://	kartikayashivomrania.github.io/portfolio/aap-bihar-or-social-media-research-and-copywriting/"/>
+        <id>https://	kartikayashivomrania.github.io/portfolio/aap-bihar-or-social-media-research-and-copywriting/</id>
+            <category term="Writing &amp; Copywriting"/>
+
+        <updated>2026-11-01T06:19:27+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Project Overview A collection of social media content developed for AAP Bihar,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="5" data-is-empty="false">
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-1.jpg" data-size="1024x512"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-1-thumbnail.jpg" alt="" width="768" height="384"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-2.jpg" data-size="1280x1280"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-3.jpg" data-size="1003x617"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-3-thumbnail.jpg" alt="" width="768" height="472"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-4.jpg" data-size="1003x619"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-4-thumbnail.jpg" alt="" width="768" height="474"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-5.jpg" data-size="1001x615"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-5-thumbnail.jpg" alt="" width="768" height="472"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-6.jpg" data-size="996x614"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-6-thumbnail.jpg" alt="" width="768" height="473"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-7.jpg" data-size="1000x616"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-7-thumbnail.jpg" alt="" width="768" height="473"></a></figure>
+<figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-8.jpg" data-size="1280x615"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-8-thumbnail.jpg" alt="" width="768" height="369"></a></figure>
+</div></div>
+<div class="aap-project">
+<div class="aap-project-section">
+<h3>Project Overview</h3>
+<p>A collection of social media content developed for AAP Bihar, comprising over 100 tweets. The work involved researching relevant subjects and developing written content for the organisation's social media communication. The six samples featured here represent a selection from the larger body of work.</p>
+</div>
+<div class="aap-project-divider"> </div>
+<div class="aap-project-section">
+<h3>My Contribution</h3>
+<p>I was responsible for researching topics, gathering relevant information and writing the tweets. My role covered research and copywriting across the collection of 100+ social media posts.</p>
 </div>
 </div>
             ]]>
