@@ -9,4 +9,204 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script></body></html>
+        }</script><script>(function () {
+
+    /* Only run on individual project pages */
+    if (!document.body.classList.contains('post-template')) return;
+
+    var article = document.querySelector('main.post > article.content');
+    if (!article) return;
+
+    var figure = article.querySelector(
+        'figure.content__featured-image--attop'
+    );
+    if (!figure) return;
+
+    /* Identify the current project */
+    var canonical = document.querySelector(
+        'link[rel="canonical"]'
+    );
+
+    var page = new URL(
+        canonical ? canonical.href : window.location.href
+    );
+
+    var parts = page.pathname.split('/').filter(Boolean);
+    var slug = parts.pop();
+
+    /* Existing project banner filenames */
+    var files = {
+        'aatm-nirbhar-or-lead-generation-reel':
+            'aatm-nirbhar-panoramic-banner.png',
+
+        'baazi-games-or-background-scoring':
+            'Baazi Games Cricket Background Scoring Banner.png'
+    };
+
+    /* Future projects use: project-slug-banner.png */
+    var filename = files[slug] || (slug + '-banner.png');
+
+    /* Find the correct media/files folder */
+    var base;
+
+    if (
+        window.location.hostname === '127.0.0.1' ||
+        window.location.hostname === 'localhost'
+    ) {
+        base = new URL('../', window.location.href);
+    } else {
+        base = new URL(
+            '/' + parts.join('/') + '/',
+            page.origin
+        );
+    }
+
+    var bannerURL = new URL(
+        'media/files/' + encodeURIComponent(filename),
+        base
+    );
+
+    /* Check that the banner actually exists */
+    var testImage = new Image();
+
+    testImage.onload = function () {
+
+        /* Banner container */
+        figure.style.setProperty(
+            'display', 'block', 'important'
+        );
+
+        figure.style.setProperty(
+            'width', '100%', 'important'
+        );
+
+        figure.style.setProperty(
+            'max-width', 'none', 'important'
+        );
+
+        figure.style.setProperty(
+            'min-height', '0', 'important'
+        );
+
+        figure.style.setProperty(
+            'margin', '0', 'important'
+        );
+
+        figure.style.setProperty(
+            'padding', '0', 'important'
+        );
+
+        figure.style.setProperty(
+            'overflow', 'hidden', 'important'
+        );
+
+        figure.style.setProperty(
+            'box-sizing', 'border-box', 'important'
+        );
+
+        figure.style.setProperty(
+            'aspect-ratio', '1236 / 249', 'important'
+        );
+
+        /* Display the banner without distortion */
+        figure.style.setProperty(
+            'background-image',
+            'url("' + bannerURL.href + '")',
+            'important'
+        );
+
+        figure.style.setProperty(
+            'background-position', 'center',
+            'important'
+        );
+
+        figure.style.setProperty(
+            'background-size', '100% 100%',
+            'important'
+        );
+
+        figure.style.setProperty(
+            'background-repeat', 'no-repeat',
+            'important'
+        );
+
+        figure.style.setProperty(
+            'border', '0', 'important'
+        );
+
+        figure.style.setProperty(
+            'border-radius', '0', 'important'
+        );
+
+        /* Maintain exact 1236:249 proportions */
+        function resizeBanner() {
+            var width = figure.getBoundingClientRect().width;
+
+            if (width > 0) {
+                var height = Math.round(width * 249 / 1236);
+
+                figure.style.setProperty(
+                    'height', height + 'px', 'important'
+                );
+            }
+        }
+
+        resizeBanner();
+
+        window.addEventListener(
+            'resize', resizeBanner
+        );
+
+        /* Hide the original featured image visually */
+        var original = figure.querySelector('img');
+
+        if (original) {
+            original.style.setProperty(
+                'display', 'none', 'important'
+            );
+        }
+
+        /* Hide the Published in strip */
+        var metadata = article.querySelector(
+            '.content__meta--attop'
+        );
+
+        if (metadata) {
+            metadata.style.setProperty(
+                'display', 'none', 'important'
+            );
+        }
+    };
+
+    /* If banner is missing, restore original image */
+    testImage.onerror = function () {
+
+        figure.style.setProperty(
+            'background-image', 'none', 'important'
+        );
+
+        figure.style.setProperty(
+            'height', 'auto', 'important'
+        );
+
+        figure.style.setProperty(
+            'aspect-ratio', 'auto', 'important'
+        );
+
+        var original = figure.querySelector('img');
+
+        if (original) {
+            original.style.setProperty(
+                'display', 'block', 'important'
+            );
+        }
+
+        console.warn(
+            'Project banner not found:',
+            bannerURL.href
+        );
+    };
+
+    testImage.src = bannerURL.href;
+
+})();</script></body></html>
