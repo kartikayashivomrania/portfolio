@@ -3,7 +3,7 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-03T21:32:56+05:30</updated>
+    <updated>2026-11-04T00:14:34+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
@@ -40,25 +40,10 @@
     box-sizing: border-box;
 }
 
-/* FIX SPACE ABOVE POST TITLE */
-
-.post__inner.post__header {
-    padding-top: 0 !important;
-}
-
-.post__title {
-    margin-top: 0 !important;
-}
-
-.content__entry {
-    max-width: 1000px !important;
-    width: 100% !important;
-}
-
 .film-project {
     width: 100%;
-    max-width: 1000px;
-    margin: 20px 0 0;
+    max-width: 960px;
+    margin: 0 auto;
     padding: 0;
     color: #343434;
     font-family: inherit;
@@ -72,7 +57,8 @@
     gap: 28px;
     align-items: start;
     width: 100%;
-    margin: 0;
+    max-width: 960px;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -85,7 +71,7 @@
     padding: 0;
 }
 
-/* LANDSCAPE VIDEO FRAME */
+/* VIDEO FRAME */
 
 .film-project-video {
     position: relative;
@@ -93,15 +79,15 @@
     aspect-ratio: 16 / 9;
     margin: 0;
     padding: 0;
-    background: #000000;
+    background: #000;
     border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     position: absolute;
-    top: 0;
-    left: 0;
+    inset: 0;
     display: block;
     width: 100%;
     height: 100%;
@@ -114,7 +100,8 @@
 
 .film-project-label {
     display: block;
-    margin: 12px 0 0 !important;
+    width: 100%;
+    margin: 10px 0 0 !important;
     padding: 0 !important;
     color: #9A7647 !important;
     font-family: inherit;
@@ -122,27 +109,31 @@
     font-weight: 600;
     letter-spacing: 1.5px;
     line-height: 1.5;
-    text-align: left;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
 /* PROJECT DETAILS */
 
 .film-project-details {
-    display: grid;
-    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
-    gap: 40px;
     width: 100%;
-    margin: 16px 0 0;
-    padding: 16px 0 0;
-    border-top: 1px solid rgba(154, 118, 71, 0.3);
-    color: #343434;
+    max-width: 740px;
+    margin: 22px auto 0;
+    padding: 20px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
     font-family: inherit;
-    text-align: left;
-    align-items: start;
+    text-align: center !important;
 }
 
-/* SECTION HEADINGS */
+/* PROJECT OVERVIEW */
+
+.film-project-overview {
+    width: 100%;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0;
+}
 
 .film-project-details h3 {
     margin: 0 0 12px !important;
@@ -153,56 +144,36 @@
     font-weight: 600;
     letter-spacing: 1.5px;
     line-height: 1.5;
-    text-align: left;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-/* PROJECT OVERVIEW */
-
 .film-project-details p {
-    margin: 0 !important;
+    max-width: 650px;
+    margin: 0 auto !important;
     padding: 0 !important;
     color: #343434 !important;
     font-family: inherit;
+    font-size: 15px;
+    line-height: 1.75;
+    text-align: center !important;
+}
+
+/* CONTRIBUTION */
+
+.film-project-contribution {
+    width: 100%;
+    margin: 20px auto 0;
+    padding: 17px 0 0;
+    border-top: 1px solid rgba(154,118,71,.18);
+}
+
+.film-project-contribution p {
+    margin: 0 auto !important;
+    color: #343434 !important;
     font-size: 15px;
     line-height: 1.7;
-    text-align: left;
-}
-
-/* CONTRIBUTION LIST */
-
-.film-project-details ul {
-    display: block;
-    margin: 0 !important;
-    padding: 0 !important;
-    list-style: none !important;
-}
-
-.film-project-details li {
-    position: relative;
-    display: block;
-    margin: 0 0 10px !important;
-    padding: 0 0 0 18px !important;
-    color: #343434 !important;
-    font-family: inherit;
-    font-size: 15px;
-    line-height: 1.65;
-    text-align: left;
-}
-
-.film-project-details li:last-child {
-    margin-bottom: 0 !important;
-}
-
-.film-project-details li::before {
-    content: "";
-    position: absolute;
-    top: 0.68em;
-    left: 2px;
-    width: 5px;
-    height: 5px;
-    border-radius: 50%;
-    background-color: #9A7647;
+    text-align: center !important;
 }
 
 /* MOBILE */
@@ -211,18 +182,25 @@
 
     .film-project-gallery {
         grid-template-columns: 1fr;
-        gap: 28px;
+        gap: 24px;
     }
 
     .film-project-details {
-        grid-template-columns: 1fr;
-        gap: 26px;
-        margin-top: 22px;
-        padding-top: 20px;
+        max-width: 100%;
+        margin-top: 20px;
+        padding-top: 18px;
+    }
+
+    .film-project-overview {
+        max-width: 100%;
+    }
+
+    .film-project-contribution {
+        margin-top: 18px;
+        padding-top: 16px;
     }
 }
 </style>
-
 
 <section class="film-project">
 
@@ -230,10 +208,9 @@
 
     <div class="film-project-gallery">
 
-        <article class="film-project-card">
+        <div class="film-project-card">
 
             <div class="film-project-video">
-
                 <iframe loading="lazy"                     src="https://www.youtube.com/embed/rU4Lo_W3KxA"
                     title="Rashid Khan Feature"
                     width="560"
@@ -243,20 +220,17 @@
                     referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen>
                 </iframe>
-
             </div>
 
             <h3 class="film-project-label">
                 Rashid Khan Feature
             </h3>
 
-        </article>
+        </div>
 
-
-        <article class="film-project-card">
+        <div class="film-project-card">
 
             <div class="film-project-video">
-
                 <iframe loading="lazy"                     src="https://www.youtube.com/embed/_Q14o6NF7DA"
                     title="Diwali Campaign"
                     width="560"
@@ -266,17 +240,15 @@
                     referrerpolicy="strict-origin-when-cross-origin"
                     allowfullscreen>
                 </iframe>
-
             </div>
 
             <h3 class="film-project-label">
                 Diwali Campaign
             </h3>
 
-        </article>
+        </div>
 
     </div>
-
 
     <!-- PROJECT DETAILS -->
 
@@ -296,14 +268,11 @@
 
         </div>
 
-
         <div class="film-project-contribution">
 
             <h3>My Contribution</h3>
 
-            <ul>
-                <li>Background scoring for both videos</li>
-            </ul>
+            <p>Background scoring for both videos</p>
 
         </div>
 
@@ -329,101 +298,251 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/58/Sangam-Challengers-Team-Anthem.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== SANGAM WARRIORS — OFFICIAL TEAM ANTHEM ========================================== */ .film-project, .film-project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/58/Sangam-Challengers-Team-Anthem.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   SANGAM WARRIORS — OFFICIAL TEAM ANTHEM
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
+}
+
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-.film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr);
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
 }
 
-.film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+/* PROJECT OVERVIEW */
+
+.film-project-details p {
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
+    text-align: center !important;
+}
+
+.film-project-overview p + p {
+    margin-top: 12px !important;
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
+.film-project-details ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1ry3s7Pqu3qij9z75xJ-y-tGLVhcp5dty/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <article class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1ry3s7Pqu3qij9z75xJ-y-tGLVhcp5dty/preview"
+                    title="Sangam Warriors Official Team Anthem"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <h3 class="film-project-label">
+                Official Team Anthem
+            </h3>
+
+        </article>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            The official team anthem for Sangam Warriors, a kabaddi
-            team competing in the Uttarakhand Premier Kabaddi League
-            (UPKL). The project involved creating an original song
-            to capture the team's identity and the energy of the sport.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Music composition</li>
-            <li>Vocal performance</li>
-            <li>Music production and arrangement</li>
-            <li>Audio mixing</li>
-            <li>Audio mastering</li>
-        </ul>
+            <h3>Project Overview</h3>
 
-        <p>
-            I handled the complete song creation and audio production.
-            The visuals were handled separately.
-        </p>
+            <p>
+                The official team anthem for Sangam Warriors, a kabaddi
+                team competing in the Uttarakhand Premier Kabaddi League
+                (UPKL). The project involved creating an original song
+                to capture the team's identity and the energy of the sport.
+            </p>
+
+            <p>
+                I handled the complete song creation and audio production.
+                The visuals were handled separately.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Music composition</li>
+                <li>Vocal performance</li>
+                <li>Music production and arrangement</li>
+                <li>Audio mixing</li>
+                <li>Audio mastering</li>
+            </ul>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+</div>
             ]]>
         </content>
     </entry>
@@ -442,93 +561,244 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/57/Legends-League-Cricket-Anthem.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== LEGENDS LEAGUE CRICKET — OFFICIAL ANTHEM ========================================== */ .film-project, .film-project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/57/Legends-League-Cricket-Anthem.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   LEGENDS LEAGUE CRICKET — OFFICIAL ANTHEM
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
+}
+
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
     text-transform: uppercase;
+    text-align: center !important;
 }
+
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
+}
+
+.film-project-details > div {
+    min-width: 0;
+}
+
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    text-align: center !important;
+}
+
+/* PROJECT OVERVIEW */
 
 .film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.6;
+    line-height: 1.7;
+    text-align: center !important;
 }
 
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
 .film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
 <div class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/13MfdwkeCqrL7vbXmN_MIGbJRug9xs_tE/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/13MfdwkeCqrL7vbXmN_MIGbJRug9xs_tE/preview"
+                    title="Legends League Cricket Official Anthem"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <p class="film-project-label">
+                Official League Anthem
+            </p>
+
+        </div>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            The official anthem for Legends League Cricket.
-            The project involved creating an original anthem
-            to capture the energy and spirit of the league
-            through music and vocals.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Vocal performance</li>
-            <li>Music co-production</li>
-        </ul>
+            <h3>Project Overview</h3>
+
+            <p>
+                The official anthem for Legends League Cricket.
+                The project involved creating an original anthem
+                to capture the energy and spirit of the league
+                through music and vocals.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Vocal performance</li>
+                <li>Music co-production</li>
+            </ul>
+
+        </div>
 
     </div>
-</div></div>
+
+</div>
+
+</div>
             ]]>
         </content>
     </entry>
@@ -547,129 +817,288 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/56/Zupee-Ludo-Campaign-Poster.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== ZUPEE — LUDO CAMPAIGN ========================================== */ .film-project, .film-project * {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/56/Zupee-Ludo-Campaign-Poster.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   ZUPEE — LUDO CAMPAIGN
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
 }
 
+/* SIDE-BY-SIDE SONG VIDEOS */
+
+.film-project-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 28px;
+    align-items: start;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.film-project-track {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* GOOGLE DRIVE VIDEO FRAME */
+
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-track {
-    margin-bottom: 38px;
-}
+/* CENTRED SONG LABELS */
 
-.film-project-track h3 {
-    margin: 0 0 14px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
+/* CENTRED PROJECT DETAILS */
+
 .film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
+    width: 100%;
+    max-width: 740px;
+    margin: 24px auto 0;
+    padding: 20px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+}
+
+/* PROJECT OVERVIEW */
+
+.film-project-overview {
+    width: 100%;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0;
 }
 
 .film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
 .film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
+    max-width: 650px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.6;
+    line-height: 1.75;
+    text-align: center !important;
 }
 
+/* CONTRIBUTION SECTION */
+
+.film-project-contribution {
+    width: 100%;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.18);
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
 .film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* FINAL PROJECT NOTE */
+
+.film-project-contribution > p {
+    margin: 16px auto 0 !important;
+    max-width: 650px;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-gallery {
+        grid-template-columns: 1fr;
+        gap: 24px;
+    }
+
+    .film-project-details {
+        max-width: 100%;
+        margin-top: 20px;
+        padding-top: 18px;
+    }
+
+    .film-project-overview {
+        max-width: 100%;
+    }
+
+    .film-project-contribution {
+        margin-top: 18px;
+        padding-top: 16px;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-track">
-        <h3>Song 01</h3>
-        <div class="film-project-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1iMENr-1TGPL-jhhn1zuA_tQ2l9g9dARO/preview"
-                allow="autoplay"
-                allowfullscreen>
-            </iframe></div>
+    <!-- SIDE-BY-SIDE SONG VIDEOS -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-track">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1iMENr-1TGPL-jhhn1zuA_tQ2l9g9dARO/preview"
+                    title="Zupee Ludo Campaign — Song 01"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <h3 class="film-project-label">Song 01</h3>
+
         </div>
+
+        <div class="film-project-track">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1EkiD7FfEDe0FIqX8D4B0GO170Xbkm9Tn/preview"
+                    title="Zupee Ludo Campaign — Song 02"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <h3 class="film-project-label">Song 02</h3>
+
+        </div>
+
     </div>
 
-    <div class="film-project-track">
-        <h3>Song 02</h3>
-        <div class="film-project-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1EkiD7FfEDe0FIqX8D4B0GO170Xbkm9Tn/preview"
-                allow="autoplay"
-                allowfullscreen>
-            </iframe></div>
-        </div>
-    </div>
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            Two original songs created for Zupee's Ludo Campaign.
-            Both tracks involved complete songwriting and audio
-            production, from developing the lyrics and composing
-            the music to recording vocals and completing the
-            final mix and master.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Music composition</li>
-            <li>Vocal performance</li>
-            <li>Music production and arrangement</li>
-            <li>Audio mixing</li>
-            <li>Audio mastering</li>
-        </ul>
+            <h3>Project Overview</h3>
 
-        <p>
-            The visual production for both songs was handled
-            separately. My contribution covered the complete
-            creation and production of the audio.
-        </p>
+            <p>
+                Two original songs created for Zupee's Ludo Campaign.
+                Both tracks involved complete songwriting and audio
+                production, from developing the lyrics and composing
+                the music to recording vocals and completing the
+                final mix and master.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Music composition</li>
+                <li>Vocal performance</li>
+                <li>Music production and arrangement</li>
+                <li>Audio mixing</li>
+                <li>Audio mastering</li>
+            </ul>
+
+            <p>
+                The visual production for both songs was handled
+                separately. My contribution covered the complete
+                creation and production of the audio.
+            </p>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+</div>
             ]]>
         </content>
     </entry>
@@ -688,97 +1117,249 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/55/Sachin-Tendulkar-Birthday-Anthem.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== BAAZI GAMES — SACHIN TENDULKAR BIRTHDAY ANTHEM ========================================== */ .film-project,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/55/Sachin-Tendulkar-Birthday-Anthem.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   BAAZI GAMES — SACHIN TENDULKAR BIRTHDAY ANTHEM
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
 }
 
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* GOOGLE DRIVE VIDEO FRAME */
+
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-.film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr);
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
 }
 
-.film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+.film-project-details > div {
+    min-width: 0;
+}
+
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+/* PROJECT OVERVIEW */
+
+.film-project-details p {
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
+    text-align: center !important;
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
+.film-project-details ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1R2jKNgCnNv3t7yLrZVTSzWf_Cy_j6yon/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1R2jKNgCnNv3t7yLrZVTSzWf_Cy_j6yon/preview"
+                    title="Baazi Games — Sachin Tendulkar Birthday Anthem"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <p class="film-project-label">
+                Birthday Anthem
+            </p>
+
+        </div>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            An original birthday anthem created for Baazi Games
-            to celebrate Sachin Tendulkar. The project involved
-            creating a complete original song, from writing the
-            lyrics and composing the music to recording and
-            finishing the final audio production.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Music composition</li>
-            <li>Vocal performance</li>
-            <li>Music production and arrangement</li>
-            <li>Audio mixing</li>
-            <li>Audio mastering</li>
-        </ul>
+            <h3>Project Overview</h3>
+
+            <p>
+                An original birthday anthem created for Baazi Games
+                to celebrate Sachin Tendulkar. The project involved
+                creating a complete original song, from writing the
+                lyrics and composing the music to recording and
+                finishing the final audio production.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Music composition</li>
+                <li>Vocal performance</li>
+                <li>Music production and arrangement</li>
+                <li>Audio mixing</li>
+                <li>Audio mastering</li>
+            </ul>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+</div>
             ]]>
         </content>
     </entry>
@@ -797,102 +1378,261 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/54/End-Boss_-Poker-Crown-Beats.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== BAAZI GAMES — END BOSS CAMPAIGN ========================================== */ .film-project, .film-project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/54/End-Boss_-Poker-Crown-Beats.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   BAAZI GAMES — END BOSS CAMPAIGN
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
 }
 
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* GOOGLE DRIVE VIDEO FRAME */
+
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-.film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr);
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
 }
 
-.film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+.film-project-details > div {
+    min-width: 0;
+}
+
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+/* PROJECT OVERVIEW AND NOTES */
+
+.film-project-details p {
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
+    text-align: center !important;
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
+.film-project-details ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* FINAL PROJECT NOTE */
+
+.film-project-contribution > p {
+    margin: 16px auto 0 !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1DJcFpg2R-xKVVBVDYdgSoixd0-kqRY3f/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1DJcFpg2R-xKVVBVDYdgSoixd0-kqRY3f/preview"
+                    title="Baazi Games — End Boss Campaign"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <p class="film-project-label">
+                End Boss Campaign
+            </p>
+
+        </div>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            An original song created for Baazi Games' End Boss
-            campaign. I handled the complete song creation and
-            audio production, developing the lyrics and music
-            and taking the track through to its final mix and master.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Music composition</li>
-            <li>Vocal performance</li>
-            <li>Music production and arrangement</li>
-            <li>Audio mixing</li>
-            <li>Audio mastering</li>
-        </ul>
+            <h3>Project Overview</h3>
 
-        <p>
-            The campaign concept and visual production were
-            handled by other teams. My contribution was the
-            complete original song and its audio production.
-        </p>
+            <p>
+                An original song created for Baazi Games' End Boss
+                campaign. I handled the complete song creation and
+                audio production, developing the lyrics and music
+                and taking the track through to its final mix and master.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Music composition</li>
+                <li>Vocal performance</li>
+                <li>Music production and arrangement</li>
+                <li>Audio mixing</li>
+                <li>Audio mastering</li>
+            </ul>
+
+            <p>
+                The campaign concept and visual production were
+                handled by other teams. My contribution was the
+                complete original song and its audio production.
+            </p>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+
+</div>
             ]]>
         </content>
     </entry>
@@ -911,94 +1651,247 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/53/Baazi-Games-T20-Anthem-Poster.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== BAAZI GAMES — T20 CAMPAIGN ANTHEM ========================================== */ .film-project, .film-project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/53/Baazi-Games-T20-Anthem-Poster.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   BAAZI GAMES — T20 CAMPAIGN ANTHEM
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
 }
 
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* GOOGLE DRIVE VIDEO FRAME */
+
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-.film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr);
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
 }
 
-.film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+.film-project-details > div {
+    min-width: 0;
+}
+
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+/* PROJECT OVERVIEW */
+
+.film-project-details p {
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
+    text-align: center !important;
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
+.film-project-details ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1fZhBeQ9ph8-n7oZqic6zFmgBxKatp5ys/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1fZhBeQ9ph8-n7oZqic6zFmgBxKatp5ys/preview"
+                    title="Baazi Games — T20 Anthem featuring Divyendu"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <p class="film-project-label">
+                T20 Campaign Anthem
+            </p>
+
+        </div>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            A T20-themed anthem created for Baazi Games,
-            featuring Divyendu. The project involved developing
-            and producing an original vocal track for the campaign.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Vocal performance</li>
-            <li>Music production</li>
-            <li>Audio mixing</li>
-            <li>Audio mastering</li>
-        </ul>
+            <h3>Project Overview</h3>
+
+            <p>
+                A T20-themed anthem created for Baazi Games,
+                featuring Divyendu. The project involved developing
+                and producing an original vocal track for the campaign.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Vocal performance</li>
+                <li>Music production</li>
+                <li>Audio mixing</li>
+                <li>Audio mastering</li>
+            </ul>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+
+</div>
             ]]>
         </content>
     </entry>
@@ -1017,101 +1910,260 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/52/Baazi-Games-T20-Cricket-Anthem.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== BAAZI GAMES — T20 CRICKET WORLD CUP ANTHEM ========================================== */&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/52/Baazi-Games-T20-Cricket-Anthem.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   BAAZI GAMES — T20 CRICKET WORLD CUP ANTHEM
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
 }
 
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* GOOGLE DRIVE VIDEO FRAME */
+
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-.film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr);
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
 }
 
-.film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+.film-project-details > div {
+    min-width: 0;
+}
+
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+/* PROJECT OVERVIEW AND NOTES */
+
+.film-project-details p {
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
+    text-align: center !important;
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
+.film-project-details ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* FINAL PROJECT NOTE */
+
+.film-project-contribution > p {
+    margin: 16px auto 0 !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1DBCnY-V8A9Cbbh1fYKzyo6KRsqHe0KrO/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1DBCnY-V8A9Cbbh1fYKzyo6KRsqHe0KrO/preview"
+                    title="Baazi Games — T20 Cricket World Cup Anthem"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <p class="film-project-label">
+                T20 Cricket World Cup Anthem
+            </p>
+
+        </div>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            A T20 Cricket World Cup anthem created for Baazi Games.
-            The project involved developing an original rap and
-            musical composition to capture the energy and excitement
-            surrounding T20 cricket.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Lyrics and songwriting</li>
-            <li>Music composition</li>
-            <li>Vocal performance</li>
-            <li>Audio mixing</li>
-            <li>Audio mastering</li>
-        </ul>
+            <h3>Project Overview</h3>
 
-        <p>
-            The video visuals were produced by a separate agency.
-            My contribution was focused on the complete audio
-            creation and production.
-        </p>
+            <p>
+                A T20 Cricket World Cup anthem created for Baazi Games.
+                The project involved developing an original rap and
+                musical composition to capture the energy and excitement
+                surrounding T20 cricket.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Lyrics and songwriting</li>
+                <li>Music composition</li>
+                <li>Vocal performance</li>
+                <li>Audio mixing</li>
+                <li>Audio mastering</li>
+            </ul>
+
+            <p>
+                The video visuals were produced by a separate agency.
+                My contribution was focused on the complete audio
+                creation and production.
+            </p>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+
+</div>
             ]]>
         </content>
     </entry>
@@ -1130,93 +2182,243 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://kartikayashivomrania.github.io/portfolio/media/posts/51/Access-Bank-Buddhimoney-Jingle.png" alt="" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                    /* ========================================== ACCESS BANK — RAP OPENING SEGMENT ========================================== */ .film-project, .film-project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/51/Access-Bank-Buddhimoney-Jingle.png" class="type:primaryImage" alt="" /></p>
-                <div><style>
+                <div>
+<style>
+/* ==========================================
+   ACCESS BANK — RAP OPENING SEGMENT
+   ========================================== */
+
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
 .film-project {
     width: 100%;
     max-width: 1100px;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding: 0;
+    color: #343434;
+    font-family: inherit;
 }
 
+/* CENTRED VIDEO */
+
+.film-project-gallery {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 560px;
+    min-width: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* GOOGLE DRIVE VIDEO FRAME */
+
 .film-project-video {
+    position: relative;
     width: 100%;
     container-type: inline-size;
     background: #000;
-    border-radius: 6px;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0,0,0,.08);
 }
 
 .film-project-video iframe {
     display: block;
     width: 100%;
     height: calc(75cqw + 24px);
+    margin: 0;
+    padding: 0;
     border: 0;
-    border-radius: 6px;
 }
 
-.film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
-}
+/* CENTRED VIDEO LABEL */
 
-.film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+.film-project-label {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
     text-transform: uppercase;
 }
 
-.film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
-    font-size: 15px;
-    line-height: 1.6;
+/* CENTRED PROJECT DETAILS */
+
+.film-project-details {
+    display: grid;
+    grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr);
+    gap: 48px;
+    width: 100%;
+    max-width: 760px;
+    margin: 20px auto 0;
+    padding: 18px 0 0;
+    border-top: 1px solid rgba(154,118,71,.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: center !important;
+    align-items: start;
 }
 
-.film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+.film-project-details > div {
+    min-width: 0;
+}
+
+/* SECTION HEADINGS */
+
+.film-project-details h3 {
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+/* PROJECT OVERVIEW AND NOTES */
+
+.film-project-details p {
+    max-width: 340px;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
+    text-align: center !important;
+}
+
+/* CENTRED CONTRIBUTION — NO BULLETS */
+
+.film-project-details ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
+    font-size: 15px;
+    line-height: 1.65;
+    text-align: center !important;
+    list-style: none !important;
+}
+
+.film-project-details li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 700px) {
+
+    .film-project-card {
+        max-width: 100%;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        max-width: 100%;
+    }
+
+    .film-project-details p {
+        max-width: 100%;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-video">
-        <div class="post__iframe"><iframe loading="lazy"             src="https://drive.google.com/file/d/1l0z_7PaVTImMlAsaZ-o_x7R8XdXK_TF8/preview"
-            allow="autoplay"
-            allowfullscreen>
-        </iframe></div>
+    <!-- CENTRED VIDEO -->
+
+    <div class="film-project-gallery">
+
+        <div class="film-project-card">
+
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://drive.google.com/file/d/1l0z_7PaVTImMlAsaZ-o_x7R8XdXK_TF8/preview"
+                    title="Access Bank — Rap Opening Segment"
+                    allow="autoplay"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+
+            <p class="film-project-label">
+                Original Rap Intro
+            </p>
+
+        </div>
+
     </div>
+
+    <!-- PROJECT DETAILS -->
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            A rap-based opening segment created for Access Bank.
-            The piece uses an original rap written and performed
-            by me to introduce the video.
-        </p>
+        <div class="film-project-overview">
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Rap concept and writing</li>
-            <li>Lyrics and composition of the rap</li>
-            <li>Rap performance and original vocal delivery</li>
-            <li>Final dubbing handled by another performer</li>
-        </ul>
+            <h3>Project Overview</h3>
+
+            <p>
+                A rap-based opening segment created for Access Bank.
+                The piece uses an original rap written and performed
+                by me to introduce the video.
+            </p>
+
+        </div>
+
+        <div class="film-project-contribution">
+
+            <h3>My Contribution</h3>
+
+            <ul>
+                <li>Rap concept and writing</li>
+                <li>Lyrics and composition of the rap</li>
+            </ul>
+
+        </div>
 
     </div>
-</div></div>
+
+</section>
+</div>
             ]]>
         </content>
     </entry>
@@ -1240,7 +2442,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://kartikayashivomrania.github.io/portfolio/media/posts/50/AAP-Bihar-Social-Media-Collage.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="5" data-is-empty="false">
+                <!-- ORIGINAL EIGHT-IMAGE GALLERY — UNCHANGED -->
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="5" data-is-empty="false">
 <figure class="gallery__item"><a href="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-1.jpg" data-size="1024x512"><img loading="lazy" src="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-1-thumbnail.jpg" alt="" width="768" height="384"></a></figure>
 <figure class="gallery__item"><a href="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-2.jpg" data-size="1280x1280"><img loading="lazy" src="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-3.jpg" data-size="1003x617"><img loading="lazy" src="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-3-thumbnail.jpg" alt="" width="768" height="472"></a></figure>
@@ -1250,12 +2453,12 @@
 <figure class="gallery__item"><a href="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-7.jpg" data-size="1000x616"><img loading="lazy" src="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-7-thumbnail.jpg" alt="" width="768" height="473"></a></figure>
 <figure class="gallery__item"><a href="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-8.jpg" data-size="1280x615"><img loading="lazy" src="https://kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-8-thumbnail.jpg" alt="" width="768" height="369"></a></figure>
 </div></div>
+<!-- PROJECT DETAILS — NO DIVIDER ELEMENT -->
 <div class="aap-project">
 <div class="aap-project-section">
 <h3>Project Overview</h3>
-<p>A collection of social media content developed for AAP Bihar, comprising over 100 tweets. The work involved researching relevant subjects and developing written content for the organisation's social media communication. The six samples featured here represent a selection from the larger body of work.</p>
+<p>A collection of social media content developed for AAP Bihar, comprising over 100 tweets. The work involved researching relevant subjects and developing written content for the organisation's social media communication. The eight samples featured here represent a selection from the larger body of work.</p>
 </div>
-<div class="aap-project-divider"> </div>
 <div class="aap-project-section">
 <h3>My Contribution</h3>
 <p>I was responsible for researching topics, gathering relevant information and writing the tweets. My role covered research and copywriting across the collection of 100+ social media posts.</p>
