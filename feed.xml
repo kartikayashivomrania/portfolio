@@ -3,7 +3,7 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://	kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-03T19:49:24+05:30</updated>
+    <updated>2026-11-03T20:04:06+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
@@ -196,10 +196,12 @@
 
         <article class="film-project-card">
             <div class="film-project-video">
-                <div class="post__iframe"><iframe loading="lazy"                     src="https://www.youtube-nocookie.com/embed/rU4Lo_W3KxA"
-                    title="Rashid Khan SportzBaazi Video"
-                    referrerpolicy="strict-origin-when-cross-origin"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                <div class="post__iframe"><iframe loading="lazy" 
+                    src="https://www.youtube.com/embed/rU4Lo_W3KxA" 
+                    title="Rashid Khan Feature" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    referrerpolicy="strict-origin-when-cross-origin" 
                     allowfullscreen>
                 </iframe></div>
             </div>
@@ -208,10 +210,12 @@
 
         <article class="film-project-card">
             <div class="film-project-video">
-                <div class="post__iframe"><iframe loading="lazy"                     src="https://www.youtube-nocookie.com/embed/_Q14o6NF7DA"
-                    title="PokerBaazi Diwali Ad"
-                    referrerpolicy="strict-origin-when-cross-origin"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                <div class="post__iframe"><iframe loading="lazy" 
+                    src="https://www.youtube.com/embed/_Q14o6NF7DA" 
+                    title="Diwali Campaign" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    referrerpolicy="strict-origin-when-cross-origin" 
                     allowfullscreen>
                 </iframe></div>
             </div>
@@ -233,7 +237,7 @@
             </p>
         </div>
 
-        <div class="film-project-contribution">
+        <div class="query-contribution">
             <h3>My Contribution</h3>
             <ul>
                 <li>Background scoring for both videos</li>
