@@ -3,7 +3,7 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-03T20:55:34+05:30</updated>
+    <updated>2026-11-03T21:32:56+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
@@ -38,6 +38,16 @@
 .film-project,
 .film-project * {
     box-sizing: border-box;
+}
+
+/* FIX SPACE ABOVE POST TITLE */
+
+.post__inner.post__header {
+    padding-top: 0 !important;
+}
+
+.post__title {
+    margin-top: 0 !important;
 }
 
 .content__entry {
@@ -87,10 +97,6 @@
     border-radius: 8px;
     overflow: hidden;
 }
-
-/* DIRECT YOUTUBE IFRAME
-   Publii responsive wrapping is disabled
-   using data-responsive="false". */
 
 .film-project-video iframe {
     position: absolute;
