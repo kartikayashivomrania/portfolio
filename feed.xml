@@ -3,7 +3,7 @@
     <title>Kartikaya Shiv Omrania</title>
     <link href="https://	kartikayashivomrania.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://	kartikayashivomrania.github.io/portfolio" />
-    <updated>2026-11-02T06:47:53+05:30</updated>
+    <updated>2026-11-03T19:49:24+05:30</updated>
     <author>
         <name>Kartikaya Shiv Omrania</name>
     </author>
@@ -16,125 +16,233 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-background-scoring/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-background-scoring/</id>
-        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Uniform-Background-Scoring-Layout.png" medium="image" />
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Baazi-Games-Background-Scoring-Banner-1.png" medium="image" />
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T07:11:57+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Uniform-Background-Scoring-Layout.png" alt="Baazi Games Background Scoring" />
-                    .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Baazi-Games-Background-Scoring-Banner-1.png" alt="Baazi Games Background Scoring" />
+                    .film-project, .film-project * { box-sizing: border-box; } .content__entry { max-width: 1000px !important;&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Uniform-Background-Scoring-Layout.png" class="type:primaryImage" alt="Baazi Games Background Scoring" /></p>
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/59/Baazi-Games-Background-Scoring-Banner-1.png" class="type:primaryImage" alt="Baazi Games Background Scoring" /></p>
                 <div><style>
+.film-project,
+.film-project * {
+    box-sizing: border-box;
+}
+
+.content__entry {
+    max-width: 1000px !important;
+    width: 100% !important;
+}
+
 .film-project {
     width: 100%;
-    max-width: 1100px;
-    margin: 25px auto;
+    max-width: 1000px;
+    margin: 24px 0 0 0;
+    padding: 0;
+    color: #333333;
+    font-family: inherit;
+}
+
+.film-project-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+    align-items: start;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.film-project-card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .film-project-video {
+    position: relative;
     width: 100%;
-    container-type: inline-size;
-    background: #000;
-    border-radius: 6px;
+    aspect-ratio: 16 / 9;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
 }
 
 .film-project-video iframe {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    display: block !important;
+}
+
+.film-project-label {
     display: block;
-    width: 100%;
-    height: calc(75cqw + 24px);
-    border: 0;
-    border-radius: 6px;
-}
-
-.film-project-track {
-    margin-bottom: 38px;
-}
-
-.film-project-track h3 {
-    margin: 0 0 14px;
-    color: #c8ad82;
+    margin: 12px 0 0 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: left;
     text-transform: uppercase;
 }
 
 .film-project-details {
-    padding-top: 24px;
-    max-width: 850px;
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    gap: 48px;
+    width: 100%;
+    margin: 40px 0 0 0;
+    padding: 28px 0 0 0;
+    border-top: 1px solid rgba(154, 118, 71, 0.3);
+    color: #343434 !important;
+    font-family: inherit;
+    text-align: left;
+    align-items: start;
 }
 
 .film-project-details h3 {
-    margin: 0 0 12px;
-    color: #c8ad82;
+    margin: 0 0 14px 0 !important;
+    padding: 0 !important;
+    color: #9A7647 !important;
+    font-family: inherit;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-align: left;
     text-transform: uppercase;
 }
 
 .film-project-details p {
-    margin: 0 0 18px;
-    color: #d0cec9;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.6;
+    line-height: 1.7;
+    text-align: left;
 }
 
 .film-project-details ul {
-    margin: 0;
-    padding-left: 18px;
-    color: #d0cec9;
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.film-project-details li {
+    position: relative;
+    display: block;
+    margin: 0 0 10px 0 !important;
+    padding: 0 0 0 18px !important;
+    color: #343434 !important;
+    font-family: inherit;
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.65;
+    text-align: left;
+}
+
+.film-project-details li:last-child {
+    margin-bottom: 0 !important;
+}
+
+.film-project-details li::before {
+    content: "";
+    position: absolute;
+    top: 0.68em;
+    left: 2px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #9A7647;
+}
+
+@media screen and (max-width: 850px) {
+    .film-project-gallery {
+        grid-template-columns: 1fr;
+        gap: 28px;
+    }
+
+    .film-project-details {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
 }
 </style>
 
-<div class="film-project">
+<section class="film-project">
 
-    <div class="film-project-track">
-        <h3>Rashid Khan Feature</h3>
-        <div class="film-project-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/16D0EZP8XcnNJGsWyGnA6dX0xL6lZx-4Y/preview"
-                allow="autoplay"
-                allowfullscreen>
-            </iframe></div>
-        </div>
-    </div>
+    <div class="film-project-gallery">
 
-    <div class="film-project-track">
-        <h3>Diwali Campaign</h3>
-        <div class="film-project-video">
-            <div class="post__iframe"><iframe loading="lazy"                 src="https://drive.google.com/file/d/1stZ8BKi9IJF0X52Cu4X7xUUuJXWV8alG/preview"
-                allow="autoplay"
-                allowfullscreen>
-            </iframe></div>
-        </div>
+        <article class="film-project-card">
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://www.youtube-nocookie.com/embed/rU4Lo_W3KxA"
+                    title="Rashid Khan SportzBaazi Video"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+            <h3 class="film-project-label">Rashid Khan Feature</h3>
+        </article>
+
+        <article class="film-project-card">
+            <div class="film-project-video">
+                <div class="post__iframe"><iframe loading="lazy"                     src="https://www.youtube-nocookie.com/embed/_Q14o6NF7DA"
+                    title="PokerBaazi Diwali Ad"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen>
+                </iframe></div>
+            </div>
+            <h3 class="film-project-label">Diwali Campaign</h3>
+        </article>
+
     </div>
 
     <div class="film-project-details">
 
-        <h3>Project Overview</h3>
-        <p>
-            A selection of two video projects created for Baazi Games:
-            a feature starring Afghan cricketer Rashid Khan and
-            a Diwali-themed campaign video. Both projects involved
-            background scoring to complement the visuals and
-            establish the mood of each video.
-        </p>
+        <div class="film-project-overview">
+            <h3>Project Overview</h3>
+            <p>
+                A selection of two video projects created for Baazi Games:
+                a feature starring Afghan cricketer Rashid Khan and
+                a Diwali-themed campaign video. Both projects involved
+                background scoring to complement the visuals and
+                establish the mood of each video.
+            </p>
+        </div>
 
-        <h3>My Contribution</h3>
-        <ul>
-            <li>Background scoring for both videos</li>
-        </ul>
+        <div class="film-project-contribution">
+            <h3>My Contribution</h3>
+            <ul>
+                <li>Background scoring for both videos</li>
+            </ul>
+        </div>
 
     </div>
-</div></div>
+
+</section></div>
             ]]>
         </content>
     </entry>
@@ -145,17 +253,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/sangam-warriors-or-official-team-anthem/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/sangam-warriors-or-official-team-anthem/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/58/Sangam-Challengers-Team-Anthem.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T07:05:49+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/58/Sangam-Challengers-Team-Anthem.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/58/Sangam-Challengers-Team-Anthem.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -255,17 +366,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/legends-league-cricket-or-official-anthem/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/legends-league-cricket-or-official-anthem/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/57/Legends-League-Cricket-Anthem.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:55:36+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/57/Legends-League-Cricket-Anthem.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/57/Legends-League-Cricket-Anthem.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -357,17 +471,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/zupee-or-ludo-campaign-original-songs/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/zupee-or-ludo-campaign-original-songs/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/56/Zupee-Ludo-Campaign-Poster.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:52:19+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/56/Zupee-Ludo-Campaign-Poster.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/56/Zupee-Ludo-Campaign-Poster.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -495,17 +612,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-sachin-tendulkar-birthday-anthem/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-sachin-tendulkar-birthday-anthem/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/55/Sachin-Tendulkar-Birthday-Anthem.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:40:52+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/55/Sachin-Tendulkar-Birthday-Anthem.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/55/Sachin-Tendulkar-Birthday-Anthem.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -601,17 +721,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-end-boss-original-song-production/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-end-boss-original-song-production/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/54/End-Boss_-Poker-Crown-Beats.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:38:40+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/54/End-Boss_-Poker-Crown-Beats.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/54/End-Boss_-Poker-Crown-Beats.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -712,17 +835,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-anthem-ft-divyendu/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-anthem-ft-divyendu/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/53/Baazi-Games-T20-Anthem-Poster.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:34:33+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/53/Baazi-Games-T20-Anthem-Poster.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/53/Baazi-Games-T20-Anthem-Poster.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -815,17 +941,20 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-cricket-world-cup-anthem/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/baazi-games-or-t20-cricket-world-cup-anthem/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/52/Baazi-Games-T20-Cricket-Anthem.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:31:49+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/52/Baazi-Games-T20-Cricket-Anthem.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/52/Baazi-Games-T20-Cricket-Anthem.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -919,23 +1048,26 @@
         </content>
     </entry>
     <entry>
-        <title>Access Bank | Buddhi Money Song</title>
+        <title>Access Bank | Buddhi Money Jingle</title>
         <author>
             <name>Kartikaya Shiv Omrania</name>
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/access-bank-or-buddhi-money-song/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/access-bank-or-buddhi-money-song/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/51/Access-Bank-Buddhimoney-Jingle.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
             <category term="Audio &amp; Music Production"/>
 
         <updated>2026-11-01T06:24:41+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/51/Access-Bank-Buddhimoney-Jingle.png" alt="" />
                     .film-project { width: 100%; max-width: 1100px; margin: 25px auto; } .film-project-video {&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/51/Access-Bank-Buddhimoney-Jingle.png" class="type:primaryImage" alt="" /></p>
                 <div><style>
 .film-project {
     width: 100%;
@@ -1027,16 +1159,19 @@
         </author>
         <link href="https://	kartikayashivomrania.github.io/portfolio/aap-bihar-or-social-media-research-and-copywriting/"/>
         <id>https://	kartikayashivomrania.github.io/portfolio/aap-bihar-or-social-media-research-and-copywriting/</id>
+        <media:content url="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/AAP-Bihar-Social-Media-Collage.png" medium="image" />
             <category term="Writing &amp; Copywriting"/>
 
         <updated>2026-11-01T06:19:27+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/AAP-Bihar-Social-Media-Collage.png" alt="" />
                     Project Overview A collection of social media content developed for AAP Bihar,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/AAP-Bihar-Social-Media-Collage.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="5" data-is-empty="false">
 <figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-1.jpg" data-size="1024x512"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-1-thumbnail.jpg" alt="" width="768" height="384"></a></figure>
 <figure class="gallery__item"><a href="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-2.jpg" data-size="1280x1280"><img loading="lazy" src="https://	kartikayashivomrania.github.io/portfolio/media/posts/50/gallery/AAP-Tweet-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
